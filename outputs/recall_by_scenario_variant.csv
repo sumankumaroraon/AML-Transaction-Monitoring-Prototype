@@ -1,0 +1,9 @@
+scenario_type,variant,scenarios,detected,recall
+ACTIVITY_SPIKE,standard,10,10,1.0
+ACTIVITY_SPIKE,subtle,2,1,0.5
+MANY_TO_ONE,standard,6,6,1.0
+MANY_TO_ONE,subtle,2,0,0.0
+RAPID_PASS_THROUGH,standard,10,10,1.0
+RAPID_PASS_THROUGH,subtle,2,2,1.0
+STRUCTURING,standard,10,10,1.0
+STRUCTURING,subtle,2,1,0.5

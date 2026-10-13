@@ -1,0 +1,1001 @@
+customer_id,occupation,customer_segment,expected_monthly_activity_usd,account_opening_date
+C00001,Property Owner,retail,13500,2013-02-11
+C00002,Student,retail,2000,2021-01-22
+C00003,Property Owner,retail,9500,2018-07-02
+C00004,Restaurant Owner,business,39500,2016-10-25
+C00005,Software Engineer,retail,9500,2023-07-15
+C00006,Small Business Owner,business,31000,2012-10-29
+C00007,Nurse,retail,7000,2020-10-21
+C00008,Retail Worker,retail,3000,2025-07-06
+C00009,Retail Worker,retail,3500,2016-10-05
+C00010,Teacher,retail,4000,2024-07-26
+C00011,Retail Worker,retail,2500,2016-04-15
+C00012,Retiree,retail,3500,2014-12-12
+C00013,Retiree,retail,3000,2017-08-27
+C00014,Nurse,retail,5000,2022-06-15
+C00015,Retail Worker,retail,2500,2025-07-11
+C00016,Retiree,retail,4000,2022-03-22
+C00017,Software Engineer,retail,12000,2015-03-10
+C00018,Retiree,retail,3500,2013-06-27
+C00019,Property Owner,retail,15500,2013-03-05
+C00020,Teacher,retail,3000,2019-04-07
+C00021,Retail Worker,retail,3000,2012-06-13
+C00022,Student,retail,1000,2015-01-15
+C00023,Retiree,retail,3500,2024-12-09
+C00024,Nurse,retail,6500,2020-08-18
+C00025,Student,retail,1000,2021-01-19
+C00026,Retail Worker,retail,3000,2017-12-31
+C00027,Retiree,retail,3500,2015-02-06
+C00028,Retiree,retail,3000,2015-12-01
+C00029,Retail Worker,retail,4000,2018-06-07
+C00030,Teacher,retail,6000,2021-02-02
+C00031,Physician,retail,18000,2013-01-11
+C00032,Small Business Owner,business,26500,2013-04-02
+C00033,Teacher,retail,4500,2018-01-06
+C00034,Physician,retail,21500,2023-02-16
+C00035,Retiree,retail,4000,2020-03-02
+C00036,Nurse,retail,4000,2013-02-04
+C00037,Teacher,retail,3500,2014-04-11
+C00038,Retail Worker,retail,4000,2019-08-20
+C00039,Nurse,retail,6000,2025-02-06
+C00040,Software Engineer,retail,13500,2024-06-14
+C00041,Software Engineer,retail,11500,2014-02-03
+C00042,Software Engineer,retail,10000,2019-06-05
+C00043,Contractor,retail,8000,2025-03-29
+C00044,Small Business Owner,business,18500,2022-09-25
+C00045,Retail Worker,retail,3500,2015-03-03
+C00046,Physician,retail,22000,2020-07-25
+C00047,Small Business Owner,business,21000,2025-02-03
+C00048,Nurse,retail,6500,2019-03-17
+C00049,Teacher,retail,6000,2020-01-29
+C00050,Teacher,retail,6000,2018-09-09
+C00051,Student,retail,1500,2013-12-20
+C00052,Physician,retail,23500,2023-08-02
+C00053,Software Engineer,retail,10000,2016-05-11
+C00054,Nurse,retail,4500,2020-08-05
+C00055,Teacher,retail,6000,2012-05-31
+C00056,Small Business Owner,business,19000,2013-08-05
+C00057,Contractor,retail,11000,2015-08-24
+C00058,Property Owner,retail,19500,2016-01-12
+C00059,Retail Worker,retail,2000,2015-08-18
+C00060,Retiree,retail,2500,2013-09-17
+C00061,Retiree,retail,3500,2023-03-25
+C00062,Physician,retail,21500,2022-06-12
+C00063,Retail Worker,retail,4000,2024-08-22
+C00064,Software Engineer,retail,12500,2015-11-29
+C00065,Teacher,retail,6000,2025-05-24
+C00066,Retiree,retail,2500,2019-03-19
+C00067,Nurse,retail,7000,2014-05-11
+C00068,Small Business Owner,business,26500,2024-02-14
+C00069,Student,retail,1000,2015-04-03
+C00070,Teacher,retail,4500,2022-05-08
+C00071,Small Business Owner,business,30000,2013-07-18
+C00072,Nurse,retail,6000,2016-11-10
+C00073,Software Engineer,retail,9500,2024-12-02
+C00074,Small Business Owner,business,17500,2025-06-29
+C00075,Contractor,retail,6000,2016-02-21
+C00076,Retail Worker,retail,4000,2016-01-12
+C00077,Teacher,retail,3500,2019-01-07
+C00078,Student,retail,1000,2025-01-06
+C00079,Contractor,retail,10000,2022-10-04
+C00080,Software Engineer,retail,14000,2016-02-17
+C00081,Student,retail,1000,2014-12-18
+C00082,Contractor,retail,8000,2025-03-01
+C00083,Nurse,retail,5500,2013-03-18
+C00084,Student,retail,2000,2022-10-29
+C00085,Small Business Owner,business,37500,2016-03-01
+C00086,Property Owner,retail,15500,2022-06-02
+C00087,Retail Worker,retail,3000,2024-07-24
+C00088,Software Engineer,retail,10500,2023-02-21
+C00089,Teacher,retail,3500,2014-02-22
+C00090,Teacher,retail,4000,2017-06-01
+C00091,Teacher,retail,4000,2015-01-22
+C00092,Restaurant Owner,business,47500,2015-11-09
+C00093,Teacher,retail,4500,2018-05-10
+C00094,Small Business Owner,business,28500,2020-06-23
+C00095,Teacher,retail,5000,2019-10-05
+C00096,Small Business Owner,business,18500,2021-01-09
+C00097,Student,retail,1500,2018-10-18
+C00098,Retail Worker,retail,4000,2024-02-28
+C00099,Contractor,retail,10500,2024-02-06
+C00100,Teacher,retail,5000,2024-04-15
+C00101,Retiree,retail,2500,2012-02-07
+C00102,Software Engineer,retail,11500,2019-06-09
+C00103,Property Owner,retail,14000,2013-10-22
+C00104,Retail Worker,retail,2000,2024-02-05
+C00105,Retiree,retail,3500,2014-09-15
+C00106,Nurse,retail,6500,2020-09-19
+C00107,Teacher,retail,4000,2016-01-25
+C00108,Retail Worker,retail,4000,2014-01-17
+C00109,Nurse,retail,6000,2024-04-30
+C00110,Property Owner,retail,14000,2024-02-28
+C00111,Restaurant Owner,business,41500,2017-07-03
+C00112,Small Business Owner,business,31000,2013-07-16
+C00113,Contractor,retail,10000,2025-01-23
+C00114,Small Business Owner,business,22500,2017-11-25
+C00115,Software Engineer,retail,10000,2021-08-03
+C00116,Retail Worker,retail,4000,2022-02-24
+C00117,Teacher,retail,5500,2020-08-24
+C00118,Retiree,retail,4000,2024-12-23
+C00119,Small Business Owner,business,15500,2017-11-20
+C00120,Property Owner,retail,10500,2013-11-09
+C00121,Retiree,retail,2000,2025-02-07
+C00122,Contractor,retail,10500,2012-09-02
+C00123,Small Business Owner,business,16500,2024-07-30
+C00124,Property Owner,retail,16500,2024-01-20
+C00125,Student,retail,1000,2021-01-22
+C00126,Physician,retail,20000,2018-07-21
+C00127,Retail Worker,retail,3500,2012-03-15
+C00128,Retiree,retail,5000,2015-07-08
+C00129,Student,retail,1500,2025-02-22
+C00130,Retiree,retail,2500,2023-06-27
+C00131,Retail Worker,retail,4000,2019-01-20
+C00132,Retiree,retail,3500,2022-03-09
+C00133,Restaurant Owner,business,29000,2018-12-25
+C00134,Retiree,retail,5000,2021-02-02
+C00135,Software Engineer,retail,11000,2013-09-05
+C00136,Retail Worker,retail,2500,2013-07-19
+C00137,Nurse,retail,6000,2024-08-14
+C00138,Nurse,retail,4500,2017-05-08
+C00139,Teacher,retail,3000,2018-03-14
+C00140,Teacher,retail,4500,2018-02-27
+C00141,Retiree,retail,4000,2020-01-04
+C00142,Property Owner,retail,14500,2016-02-09
+C00143,Retiree,retail,3000,2022-07-02
+C00144,Small Business Owner,business,38000,2021-07-27
+C00145,Contractor,retail,10500,2018-09-30
+C00146,Software Engineer,retail,9000,2025-07-20
+C00147,Small Business Owner,business,16500,2019-05-06
+C00148,Retail Worker,retail,2500,2016-05-04
+C00149,Student,retail,2000,2017-05-24
+C00150,Retail Worker,retail,3000,2016-11-01
+C00151,Nurse,retail,7000,2017-11-03
+C00152,Teacher,retail,5000,2022-01-11
+C00153,Nurse,retail,6000,2025-06-11
+C00154,Contractor,retail,6000,2014-09-18
+C00155,Small Business Owner,business,39500,2014-08-09
+C00156,Restaurant Owner,business,24000,2022-11-25
+C00157,Nurse,retail,4000,2012-07-14
+C00158,Software Engineer,retail,9000,2017-08-20
+C00159,Small Business Owner,business,16000,2014-07-02
+C00160,Software Engineer,retail,12000,2015-10-17
+C00161,Student,retail,1000,2023-02-04
+C00162,Retiree,retail,4000,2020-04-13
+C00163,Student,retail,1000,2023-06-13
+C00164,Small Business Owner,business,27000,2016-05-24
+C00165,Small Business Owner,business,27500,2015-12-18
+C00166,Small Business Owner,business,23500,2019-08-17
+C00167,Contractor,retail,5500,2024-12-19
+C00168,Retiree,retail,2500,2023-12-01
+C00169,Retail Worker,retail,2000,2020-12-21
+C00170,Teacher,retail,5000,2025-04-18
+C00171,Teacher,retail,5000,2021-04-08
+C00172,Retiree,retail,3500,2024-10-02
+C00173,Small Business Owner,business,33000,2020-02-05
+C00174,Small Business Owner,business,18000,2022-02-27
+C00175,Software Engineer,retail,12000,2017-05-31
+C00176,Restaurant Owner,business,28500,2024-08-06
+C00177,Physician,retail,16500,2015-11-13
+C00178,Property Owner,retail,14000,2012-07-13
+C00179,Software Engineer,retail,15000,2012-12-17
+C00180,Student,retail,1500,2022-04-24
+C00181,Restaurant Owner,business,44500,2025-01-14
+C00182,Student,retail,1000,2016-11-03
+C00183,Physician,retail,22000,2021-08-11
+C00184,Small Business Owner,business,16000,2021-08-09
+C00185,Retiree,retail,4500,2025-08-17
+C00186,Retiree,retail,2000,2018-09-07
+C00187,Small Business Owner,business,32000,2017-05-23
+C00188,Nurse,retail,6500,2023-01-29
+C00189,Contractor,retail,8000,2019-02-21
+C00190,Retail Worker,retail,2000,2023-07-08
+C00191,Physician,retail,22500,2020-04-16
+C00192,Nurse,retail,4500,2015-11-07
+C00193,Restaurant Owner,business,41000,2012-10-13
+C00194,Small Business Owner,business,27500,2017-02-04
+C00195,Nurse,retail,4000,2019-03-17
+C00196,Software Engineer,retail,12500,2012-03-24
+C00197,Nurse,retail,7000,2018-07-15
+C00198,Teacher,retail,5500,2019-01-10
+C00199,Teacher,retail,5500,2024-10-13
+C00200,Contractor,retail,9500,2021-08-23
+C00201,Teacher,retail,4000,2016-07-04
+C00202,Teacher,retail,4500,2023-05-11
+C00203,Property Owner,retail,13500,2024-05-04
+C00204,Retiree,retail,4500,2024-12-02
+C00205,Property Owner,retail,10000,2016-02-24
+C00206,Retiree,retail,5000,2013-04-28
+C00207,Software Engineer,retail,8500,2021-08-08
+C00208,Student,retail,1000,2025-01-25
+C00209,Software Engineer,retail,11500,2012-08-13
+C00210,Retail Worker,retail,3000,2025-01-13
+C00211,Retiree,retail,2500,2018-05-16
+C00212,Nurse,retail,4000,2017-02-13
+C00213,Small Business Owner,business,15000,2015-07-28
+C00214,Nurse,retail,5500,2018-05-11
+C00215,Small Business Owner,business,21500,2019-10-05
+C00216,Software Engineer,retail,13000,2015-02-24
+C00217,Nurse,retail,7000,2025-04-29
+C00218,Physician,retail,14000,2025-04-21
+C00219,Retail Worker,retail,4000,2025-08-12
+C00220,Student,retail,1000,2014-06-12
+C00221,Teacher,retail,4500,2020-12-06
+C00222,Student,retail,2000,2023-01-13
+C00223,Retail Worker,retail,3500,2015-10-13
+C00224,Small Business Owner,business,26500,2015-04-21
+C00225,Restaurant Owner,business,31000,2013-12-05
+C00226,Property Owner,retail,15000,2016-02-19
+C00227,Nurse,retail,5000,2025-07-26
+C00228,Nurse,retail,4000,2012-05-21
+C00229,Physician,retail,21000,2022-09-24
+C00230,Small Business Owner,business,30000,2016-02-13
+C00231,Retail Worker,retail,3500,2022-04-27
+C00232,Restaurant Owner,business,20000,2025-05-02
+C00233,Restaurant Owner,business,37500,2019-06-10
+C00234,Small Business Owner,business,28500,2023-08-28
+C00235,Teacher,retail,3000,2013-09-18
+C00236,Retiree,retail,4500,2025-03-12
+C00237,Contractor,retail,6500,2022-11-25
+C00238,Retiree,retail,3500,2015-04-18
+C00239,Retiree,retail,4000,2015-06-24
+C00240,Restaurant Owner,business,32500,2021-11-07
+C00241,Student,retail,2000,2017-07-23
+C00242,Student,retail,2000,2017-04-19
+C00243,Retiree,retail,2500,2015-06-13
+C00244,Retail Worker,retail,3500,2014-04-26
+C00245,Retail Worker,retail,3000,2020-05-15
+C00246,Nurse,retail,5500,2023-05-30
+C00247,Physician,retail,22000,2017-10-09
+C00248,Small Business Owner,business,36500,2013-05-11
+C00249,Student,retail,1000,2017-12-02
+C00250,Restaurant Owner,business,31500,2012-04-19
+C00251,Small Business Owner,business,25000,2016-07-09
+C00252,Contractor,retail,8000,2019-11-28
+C00253,Restaurant Owner,business,34000,2016-05-22
+C00254,Nurse,retail,4500,2016-11-24
+C00255,Retiree,retail,3000,2021-06-12
+C00256,Student,retail,1500,2015-03-01
+C00257,Teacher,retail,3500,2018-03-22
+C00258,Software Engineer,retail,10000,2025-05-06
+C00259,Software Engineer,retail,14500,2020-09-30
+C00260,Retail Worker,retail,2500,2018-06-09
+C00261,Property Owner,retail,18500,2013-05-14
+C00262,Restaurant Owner,business,48500,2025-08-25
+C00263,Retail Worker,retail,2500,2017-07-10
+C00264,Small Business Owner,business,30500,2013-04-05
+C00265,Retail Worker,retail,2500,2013-05-21
+C00266,Contractor,retail,10000,2023-01-25
+C00267,Nurse,retail,5000,2012-05-23
+C00268,Retail Worker,retail,4000,2022-01-12
+C00269,Small Business Owner,business,17500,2014-04-23
+C00270,Retail Worker,retail,3000,2022-12-30
+C00271,Teacher,retail,5000,2019-06-18
+C00272,Nurse,retail,5500,2023-05-12
+C00273,Teacher,retail,3500,2012-12-18
+C00274,Property Owner,retail,14000,2023-07-15
+C00275,Contractor,retail,9000,2016-09-10
+C00276,Retail Worker,retail,4000,2013-09-17
+C00277,Restaurant Owner,business,25000,2024-06-20
+C00278,Teacher,retail,3000,2014-09-12
+C00279,Small Business Owner,business,23000,2012-12-06
+C00280,Nurse,retail,5500,2018-01-15
+C00281,Restaurant Owner,business,44500,2016-10-25
+C00282,Retail Worker,retail,4000,2018-02-02
+C00283,Student,retail,1000,2020-07-17
+C00284,Physician,retail,22500,2020-02-02
+C00285,Restaurant Owner,business,33000,2021-10-17
+C00286,Restaurant Owner,business,28500,2025-01-01
+C00287,Software Engineer,retail,9000,2022-03-26
+C00288,Nurse,retail,7000,2020-03-19
+C00289,Physician,retail,18000,2020-07-20
+C00290,Software Engineer,retail,14500,2019-10-16
+C00291,Retail Worker,retail,3500,2019-08-01
+C00292,Software Engineer,retail,14000,2012-07-10
+C00293,Restaurant Owner,business,36000,2014-03-28
+C00294,Restaurant Owner,business,31000,2015-12-06
+C00295,Nurse,retail,5500,2019-08-29
+C00296,Small Business Owner,business,25500,2018-08-11
+C00297,Nurse,retail,5000,2015-05-11
+C00298,Student,retail,1500,2013-08-19
+C00299,Retiree,retail,2000,2022-06-16
+C00300,Property Owner,retail,18500,2014-07-27
+C00301,Retiree,retail,2500,2021-12-13
+C00302,Teacher,retail,5000,2013-10-19
+C00303,Retail Worker,retail,3000,2021-12-28
+C00304,Retiree,retail,3000,2024-05-18
+C00305,Teacher,retail,6000,2017-09-20
+C00306,Student,retail,1500,2020-11-26
+C00307,Retiree,retail,3500,2023-01-03
+C00308,Teacher,retail,4500,2023-02-04
+C00309,Retiree,retail,3000,2017-03-26
+C00310,Restaurant Owner,business,45500,2023-11-09
+C00311,Physician,retail,22000,2013-05-14
+C00312,Software Engineer,retail,9500,2018-03-30
+C00313,Teacher,retail,4000,2016-09-16
+C00314,Retail Worker,retail,3500,2017-04-29
+C00315,Retail Worker,retail,2000,2017-11-26
+C00316,Small Business Owner,business,18500,2022-05-12
+C00317,Retail Worker,retail,3000,2015-09-21
+C00318,Retail Worker,retail,3000,2014-07-02
+C00319,Restaurant Owner,business,49500,2025-08-14
+C00320,Property Owner,retail,11000,2013-10-16
+C00321,Retiree,retail,2500,2019-06-24
+C00322,Nurse,retail,5500,2014-04-16
+C00323,Retiree,retail,4000,2012-04-22
+C00324,Software Engineer,retail,8500,2024-12-25
+C00325,Restaurant Owner,business,29500,2014-04-23
+C00326,Student,retail,1500,2017-07-08
+C00327,Property Owner,retail,18000,2024-03-01
+C00328,Teacher,retail,5000,2017-05-31
+C00329,Software Engineer,retail,14500,2019-05-28
+C00330,Student,retail,1000,2023-06-03
+C00331,Student,retail,1000,2025-01-21
+C00332,Property Owner,retail,8500,2017-09-01
+C00333,Small Business Owner,business,19000,2012-11-05
+C00334,Small Business Owner,business,28500,2023-03-08
+C00335,Student,retail,1500,2019-08-19
+C00336,Physician,retail,18500,2015-05-06
+C00337,Software Engineer,retail,10500,2020-02-15
+C00338,Physician,retail,13500,2014-09-15
+C00339,Retail Worker,retail,2500,2012-10-17
+C00340,Restaurant Owner,business,24000,2017-03-05
+C00341,Software Engineer,retail,11000,2024-05-18
+C00342,Small Business Owner,business,20000,2024-09-03
+C00343,Retiree,retail,3000,2012-01-31
+C00344,Contractor,retail,11000,2019-05-11
+C00345,Student,retail,1000,2016-10-31
+C00346,Teacher,retail,4500,2018-04-25
+C00347,Small Business Owner,business,29000,2021-10-20
+C00348,Contractor,retail,7000,2015-07-08
+C00349,Retiree,retail,2000,2025-01-03
+C00350,Small Business Owner,business,31000,2014-10-04
+C00351,Small Business Owner,business,26500,2022-12-02
+C00352,Student,retail,1000,2024-02-26
+C00353,Retail Worker,retail,3500,2023-08-05
+C00354,Retail Worker,retail,3000,2013-04-15
+C00355,Retail Worker,retail,3500,2016-06-19
+C00356,Student,retail,1000,2016-09-07
+C00357,Retiree,retail,2500,2012-06-02
+C00358,Student,retail,1000,2024-01-29
+C00359,Retiree,retail,2500,2024-07-03
+C00360,Small Business Owner,business,28000,2021-10-19
+C00361,Student,retail,1500,2018-01-31
+C00362,Contractor,retail,10500,2024-04-28
+C00363,Restaurant Owner,business,35000,2015-10-07
+C00364,Nurse,retail,5000,2024-08-11
+C00365,Retail Worker,retail,2500,2024-10-03
+C00366,Small Business Owner,business,29500,2013-05-05
+C00367,Nurse,retail,5500,2016-12-03
+C00368,Restaurant Owner,business,31500,2024-01-15
+C00369,Software Engineer,retail,12000,2015-10-13
+C00370,Contractor,retail,7000,2020-07-22
+C00371,Nurse,retail,4500,2018-07-03
+C00372,Nurse,retail,4500,2021-05-24
+C00373,Physician,retail,15500,2024-08-10
+C00374,Contractor,retail,9500,2025-08-11
+C00375,Restaurant Owner,business,32000,2023-12-20
+C00376,Student,retail,1000,2019-07-10
+C00377,Contractor,retail,5000,2013-12-17
+C00378,Software Engineer,retail,11500,2025-07-24
+C00379,Property Owner,retail,12000,2024-11-02
+C00380,Contractor,retail,7000,2016-11-05
+C00381,Property Owner,retail,14000,2015-02-16
+C00382,Restaurant Owner,business,45500,2024-07-16
+C00383,Contractor,retail,11000,2013-07-10
+C00384,Small Business Owner,business,27000,2013-04-24
+C00385,Restaurant Owner,business,38000,2024-02-23
+C00386,Nurse,retail,4500,2016-10-21
+C00387,Small Business Owner,business,22000,2021-06-28
+C00388,Student,retail,1500,2023-05-11
+C00389,Retiree,retail,2500,2013-06-23
+C00390,Retiree,retail,2000,2016-11-22
+C00391,Contractor,retail,6500,2019-06-17
+C00392,Nurse,retail,4500,2014-06-13
+C00393,Nurse,retail,6500,2015-03-09
+C00394,Retiree,retail,4500,2013-01-18
+C00395,Nurse,retail,5500,2025-02-19
+C00396,Restaurant Owner,business,49000,2025-05-09
+C00397,Retiree,retail,3000,2017-01-18
+C00398,Restaurant Owner,business,45000,2012-08-02
+C00399,Student,retail,2000,2021-05-19
+C00400,Small Business Owner,business,29000,2018-12-13
+C00401,Software Engineer,retail,8500,2015-10-02
+C00402,Retail Worker,retail,2500,2016-01-14
+C00403,Student,retail,2000,2019-01-10
+C00404,Restaurant Owner,business,45500,2022-10-13
+C00405,Retail Worker,retail,3500,2017-01-15
+C00406,Small Business Owner,business,39500,2019-01-22
+C00407,Software Engineer,retail,11000,2015-08-21
+C00408,Nurse,retail,4500,2025-03-28
+C00409,Property Owner,retail,13500,2022-11-06
+C00410,Student,retail,1000,2019-12-14
+C00411,Restaurant Owner,business,26500,2020-08-17
+C00412,Restaurant Owner,business,27000,2025-08-13
+C00413,Retail Worker,retail,2000,2013-12-06
+C00414,Small Business Owner,business,28500,2019-05-21
+C00415,Retail Worker,retail,3500,2020-06-20
+C00416,Restaurant Owner,business,30500,2023-03-24
+C00417,Teacher,retail,4500,2023-01-13
+C00418,Property Owner,retail,14500,2016-11-30
+C00419,Teacher,retail,5000,2014-02-08
+C00420,Teacher,retail,5000,2017-08-24
+C00421,Restaurant Owner,business,25500,2019-08-26
+C00422,Software Engineer,retail,11500,2018-06-19
+C00423,Restaurant Owner,business,34500,2023-12-22
+C00424,Student,retail,1500,2017-06-24
+C00425,Retiree,retail,2000,2012-03-23
+C00426,Small Business Owner,business,27000,2025-04-23
+C00427,Small Business Owner,business,31000,2023-09-26
+C00428,Retiree,retail,4500,2017-07-24
+C00429,Nurse,retail,6000,2024-01-30
+C00430,Nurse,retail,5500,2024-06-23
+C00431,Software Engineer,retail,13000,2018-12-01
+C00432,Physician,retail,13500,2014-10-19
+C00433,Retiree,retail,4000,2021-07-07
+C00434,Retail Worker,retail,4000,2015-07-17
+C00435,Retail Worker,retail,2500,2014-06-16
+C00436,Property Owner,retail,16500,2023-06-21
+C00437,Nurse,retail,5500,2017-01-20
+C00438,Teacher,retail,3500,2015-07-21
+C00439,Retiree,retail,2000,2015-02-13
+C00440,Physician,retail,22500,2022-02-28
+C00441,Small Business Owner,business,21000,2014-05-12
+C00442,Software Engineer,retail,10500,2014-04-16
+C00443,Physician,retail,16000,2016-09-30
+C00444,Software Engineer,retail,10000,2013-09-13
+C00445,Teacher,retail,5500,2016-09-27
+C00446,Retiree,retail,4500,2018-06-20
+C00447,Retiree,retail,4500,2018-07-20
+C00448,Software Engineer,retail,8500,2025-07-09
+C00449,Software Engineer,retail,11500,2017-11-11
+C00450,Contractor,retail,11000,2019-05-19
+C00451,Teacher,retail,5500,2022-01-04
+C00452,Small Business Owner,business,37000,2024-12-03
+C00453,Nurse,retail,5000,2020-03-03
+C00454,Nurse,retail,5500,2024-03-12
+C00455,Retail Worker,retail,2500,2025-06-01
+C00456,Nurse,retail,6500,2024-05-01
+C00457,Retail Worker,retail,2500,2024-09-19
+C00458,Small Business Owner,business,18500,2015-06-10
+C00459,Small Business Owner,business,21000,2016-06-11
+C00460,Teacher,retail,4500,2024-07-12
+C00461,Teacher,retail,5500,2019-07-09
+C00462,Small Business Owner,business,20500,2025-04-01
+C00463,Contractor,retail,12000,2025-02-20
+C00464,Software Engineer,retail,13500,2014-09-13
+C00465,Nurse,retail,6000,2015-01-27
+C00466,Retail Worker,retail,3000,2014-06-15
+C00467,Small Business Owner,business,31000,2013-09-29
+C00468,Nurse,retail,5000,2024-10-08
+C00469,Teacher,retail,5000,2024-08-05
+C00470,Software Engineer,retail,9500,2013-04-09
+C00471,Software Engineer,retail,10000,2014-10-01
+C00472,Small Business Owner,business,21500,2023-10-16
+C00473,Teacher,retail,3500,2018-09-02
+C00474,Teacher,retail,5500,2017-03-22
+C00475,Student,retail,1000,2017-08-18
+C00476,Retail Worker,retail,4000,2022-03-03
+C00477,Small Business Owner,business,20500,2025-07-25
+C00478,Teacher,retail,5000,2023-04-08
+C00479,Retail Worker,retail,3500,2013-05-17
+C00480,Software Engineer,retail,14000,2021-06-18
+C00481,Physician,retail,22500,2020-01-25
+C00482,Retail Worker,retail,2500,2015-09-27
+C00483,Software Engineer,retail,12000,2022-10-23
+C00484,Small Business Owner,business,21000,2022-03-22
+C00485,Retiree,retail,3500,2016-05-17
+C00486,Restaurant Owner,business,41500,2022-05-01
+C00487,Restaurant Owner,business,30500,2020-07-25
+C00488,Restaurant Owner,business,23000,2018-02-26
+C00489,Small Business Owner,business,22000,2019-10-21
+C00490,Restaurant Owner,business,46500,2016-12-21
+C00491,Property Owner,retail,12000,2015-10-27
+C00492,Small Business Owner,business,15500,2020-07-21
+C00493,Physician,retail,19500,2018-02-28
+C00494,Nurse,retail,6500,2025-01-14
+C00495,Nurse,retail,7000,2025-03-28
+C00496,Teacher,retail,5500,2021-09-27
+C00497,Small Business Owner,business,20500,2017-04-27
+C00498,Teacher,retail,3500,2025-07-07
+C00499,Restaurant Owner,business,41500,2016-10-29
+C00500,Contractor,retail,8500,2021-08-31
+C00501,Retiree,retail,2500,2022-11-16
+C00502,Nurse,retail,5500,2022-07-18
+C00503,Restaurant Owner,business,47000,2022-09-24
+C00504,Retail Worker,retail,2500,2016-04-25
+C00505,Retail Worker,retail,2000,2013-02-20
+C00506,Retail Worker,retail,3500,2012-12-17
+C00507,Property Owner,retail,15500,2015-12-30
+C00508,Contractor,retail,10000,2020-04-17
+C00509,Nurse,retail,5500,2017-06-19
+C00510,Teacher,retail,3500,2022-05-07
+C00511,Small Business Owner,business,23500,2020-05-22
+C00512,Student,retail,1500,2023-02-15
+C00513,Retail Worker,retail,3500,2013-06-13
+C00514,Contractor,retail,7000,2015-10-31
+C00515,Retiree,retail,4000,2024-01-05
+C00516,Retiree,retail,4000,2013-10-02
+C00517,Student,retail,1500,2017-08-26
+C00518,Teacher,retail,4500,2013-02-15
+C00519,Teacher,retail,5500,2012-06-25
+C00520,Software Engineer,retail,11500,2021-11-17
+C00521,Restaurant Owner,business,35000,2020-05-04
+C00522,Physician,retail,13000,2019-10-27
+C00523,Software Engineer,retail,14500,2019-03-29
+C00524,Restaurant Owner,business,33500,2018-01-31
+C00525,Retail Worker,retail,2000,2025-06-05
+C00526,Property Owner,retail,17000,2025-04-14
+C00527,Contractor,retail,6000,2024-07-23
+C00528,Retiree,retail,3000,2014-03-05
+C00529,Nurse,retail,6500,2015-04-01
+C00530,Software Engineer,retail,13500,2023-10-07
+C00531,Restaurant Owner,business,26500,2016-07-17
+C00532,Teacher,retail,4500,2015-04-03
+C00533,Restaurant Owner,business,36000,2021-05-17
+C00534,Restaurant Owner,business,26000,2023-03-04
+C00535,Small Business Owner,business,22500,2015-02-20
+C00536,Restaurant Owner,business,47000,2024-10-20
+C00537,Teacher,retail,4000,2013-01-17
+C00538,Software Engineer,retail,12500,2019-04-14
+C00539,Physician,retail,16500,2018-11-08
+C00540,Retail Worker,retail,3500,2013-08-26
+C00541,Teacher,retail,5500,2014-04-19
+C00542,Teacher,retail,3500,2012-04-10
+C00543,Teacher,retail,3000,2025-08-10
+C00544,Student,retail,2000,2019-07-23
+C00545,Contractor,retail,8000,2016-12-20
+C00546,Small Business Owner,business,37500,2025-01-18
+C00547,Retail Worker,retail,4000,2020-11-08
+C00548,Retail Worker,retail,3500,2013-12-12
+C00549,Contractor,retail,11500,2019-04-09
+C00550,Software Engineer,retail,10500,2015-11-25
+C00551,Student,retail,1000,2016-08-30
+C00552,Software Engineer,retail,12500,2012-03-28
+C00553,Property Owner,retail,17500,2012-08-05
+C00554,Software Engineer,retail,12000,2013-05-02
+C00555,Student,retail,1000,2014-02-09
+C00556,Retail Worker,retail,3500,2017-05-18
+C00557,Retail Worker,retail,4000,2025-03-14
+C00558,Restaurant Owner,business,20500,2024-01-06
+C00559,Restaurant Owner,business,47000,2014-06-27
+C00560,Student,retail,2000,2019-02-24
+C00561,Retiree,retail,3500,2018-07-08
+C00562,Physician,retail,13000,2013-12-29
+C00563,Small Business Owner,business,27000,2019-01-28
+C00564,Restaurant Owner,business,42000,2016-01-21
+C00565,Retail Worker,retail,2500,2019-09-15
+C00566,Physician,retail,15000,2024-03-30
+C00567,Nurse,retail,6500,2019-08-30
+C00568,Restaurant Owner,business,27500,2020-01-14
+C00569,Restaurant Owner,business,24500,2020-09-18
+C00570,Nurse,retail,4000,2020-10-04
+C00571,Physician,retail,15500,2012-05-01
+C00572,Contractor,retail,11000,2022-12-26
+C00573,Restaurant Owner,business,39500,2016-08-02
+C00574,Software Engineer,retail,9000,2023-07-01
+C00575,Retiree,retail,2000,2017-11-27
+C00576,Software Engineer,retail,11000,2013-10-25
+C00577,Teacher,retail,3000,2015-12-23
+C00578,Retiree,retail,2500,2025-03-31
+C00579,Teacher,retail,4500,2021-12-07
+C00580,Nurse,retail,5500,2022-07-11
+C00581,Student,retail,1500,2023-02-05
+C00582,Retail Worker,retail,3500,2017-06-21
+C00583,Student,retail,1500,2023-09-28
+C00584,Property Owner,retail,15500,2015-09-13
+C00585,Restaurant Owner,business,21500,2024-06-20
+C00586,Retail Worker,retail,2500,2019-02-08
+C00587,Student,retail,1500,2018-08-28
+C00588,Software Engineer,retail,15000,2016-03-16
+C00589,Retail Worker,retail,2000,2024-10-19
+C00590,Software Engineer,retail,8500,2015-06-15
+C00591,Restaurant Owner,business,35000,2024-08-26
+C00592,Software Engineer,retail,14000,2015-05-13
+C00593,Teacher,retail,5500,2016-04-11
+C00594,Restaurant Owner,business,25500,2018-11-23
+C00595,Student,retail,1500,2021-04-12
+C00596,Retail Worker,retail,3500,2020-10-31
+C00597,Nurse,retail,5000,2017-12-23
+C00598,Nurse,retail,6500,2018-01-22
+C00599,Retail Worker,retail,4000,2021-08-18
+C00600,Software Engineer,retail,9000,2012-07-03
+C00601,Physician,retail,13500,2023-10-11
+C00602,Contractor,retail,10000,2024-03-03
+C00603,Restaurant Owner,business,30000,2013-06-14
+C00604,Contractor,retail,6000,2018-09-29
+C00605,Student,retail,2000,2015-05-13
+C00606,Retail Worker,retail,2500,2012-07-06
+C00607,Student,retail,1000,2023-11-08
+C00608,Nurse,retail,5000,2016-12-01
+C00609,Student,retail,1000,2015-10-15
+C00610,Restaurant Owner,business,48000,2021-10-30
+C00611,Contractor,retail,7000,2012-11-18
+C00612,Small Business Owner,business,37500,2021-12-07
+C00613,Property Owner,retail,17500,2012-11-18
+C00614,Student,retail,2000,2024-01-27
+C00615,Student,retail,1500,2025-06-10
+C00616,Property Owner,retail,15000,2022-01-02
+C00617,Student,retail,1000,2023-01-24
+C00618,Software Engineer,retail,10000,2012-07-20
+C00619,Nurse,retail,6500,2023-03-09
+C00620,Nurse,retail,5000,2023-08-11
+C00621,Nurse,retail,5000,2012-08-23
+C00622,Nurse,retail,5500,2013-12-21
+C00623,Small Business Owner,business,21500,2012-02-05
+C00624,Restaurant Owner,business,45000,2022-03-12
+C00625,Contractor,retail,6000,2015-12-10
+C00626,Teacher,retail,6000,2019-08-03
+C00627,Contractor,retail,10000,2025-03-22
+C00628,Small Business Owner,business,16500,2019-10-07
+C00629,Teacher,retail,5000,2017-03-12
+C00630,Small Business Owner,business,19500,2024-03-04
+C00631,Contractor,retail,10000,2018-02-12
+C00632,Retail Worker,retail,4000,2014-01-11
+C00633,Small Business Owner,business,27000,2023-12-18
+C00634,Retail Worker,retail,4000,2013-02-20
+C00635,Teacher,retail,4000,2021-07-31
+C00636,Retail Worker,retail,4000,2017-05-28
+C00637,Retiree,retail,2000,2025-01-28
+C00638,Nurse,retail,6000,2020-06-28
+C00639,Restaurant Owner,business,42500,2018-05-05
+C00640,Teacher,retail,4000,2013-10-09
+C00641,Teacher,retail,3000,2019-01-22
+C00642,Nurse,retail,4500,2015-04-22
+C00643,Retiree,retail,3000,2020-12-31
+C00644,Property Owner,retail,12500,2018-12-08
+C00645,Restaurant Owner,business,35500,2023-11-05
+C00646,Student,retail,1500,2022-04-23
+C00647,Restaurant Owner,business,34000,2017-10-06
+C00648,Retail Worker,retail,3500,2019-04-20
+C00649,Physician,retail,23500,2024-01-14
+C00650,Physician,retail,23000,2019-12-16
+C00651,Student,retail,1500,2014-01-09
+C00652,Retiree,retail,3500,2023-03-06
+C00653,Nurse,retail,6000,2020-12-25
+C00654,Small Business Owner,business,34000,2013-03-20
+C00655,Teacher,retail,6000,2019-08-16
+C00656,Teacher,retail,4000,2025-05-27
+C00657,Physician,retail,12500,2025-08-18
+C00658,Restaurant Owner,business,42500,2021-06-23
+C00659,Software Engineer,retail,11000,2022-03-21
+C00660,Software Engineer,retail,12000,2018-10-11
+C00661,Restaurant Owner,business,22500,2012-01-15
+C00662,Nurse,retail,5000,2014-05-07
+C00663,Property Owner,retail,14000,2022-12-12
+C00664,Student,retail,1500,2012-06-03
+C00665,Teacher,retail,6000,2013-08-03
+C00666,Contractor,retail,8500,2014-07-29
+C00667,Nurse,retail,6500,2021-07-24
+C00668,Retiree,retail,4500,2017-07-25
+C00669,Contractor,retail,5500,2021-01-22
+C00670,Physician,retail,15500,2012-11-24
+C00671,Student,retail,2000,2012-12-23
+C00672,Student,retail,1000,2013-02-25
+C00673,Teacher,retail,4500,2015-09-14
+C00674,Software Engineer,retail,11500,2022-05-02
+C00675,Retail Worker,retail,3500,2025-03-11
+C00676,Small Business Owner,business,31500,2018-03-16
+C00677,Teacher,retail,4500,2016-07-17
+C00678,Software Engineer,retail,10500,2018-10-10
+C00679,Teacher,retail,4000,2022-06-22
+C00680,Contractor,retail,6000,2023-05-01
+C00681,Small Business Owner,business,21000,2019-05-31
+C00682,Student,retail,1500,2012-02-10
+C00683,Student,retail,1500,2025-07-23
+C00684,Physician,retail,16500,2025-05-23
+C00685,Contractor,retail,12000,2017-02-23
+C00686,Retail Worker,retail,3000,2014-06-18
+C00687,Property Owner,retail,17000,2017-01-23
+C00688,Teacher,retail,4500,2022-06-20
+C00689,Teacher,retail,6000,2023-10-21
+C00690,Nurse,retail,5500,2024-08-29
+C00691,Retail Worker,retail,2500,2013-10-12
+C00692,Restaurant Owner,business,23500,2012-11-15
+C00693,Property Owner,retail,9000,2024-01-24
+C00694,Student,retail,1500,2021-06-05
+C00695,Physician,retail,23000,2023-06-04
+C00696,Teacher,retail,5000,2019-08-13
+C00697,Contractor,retail,9500,2020-09-21
+C00698,Restaurant Owner,business,25000,2021-10-27
+C00699,Contractor,retail,8500,2012-10-02
+C00700,Nurse,retail,5500,2012-08-20
+C00701,Retiree,retail,4000,2015-09-16
+C00702,Retiree,retail,3500,2022-04-07
+C00703,Retail Worker,retail,2500,2024-09-07
+C00704,Retiree,retail,2500,2023-05-05
+C00705,Teacher,retail,5000,2016-12-08
+C00706,Contractor,retail,7500,2019-09-16
+C00707,Small Business Owner,business,33000,2015-06-10
+C00708,Student,retail,1000,2016-10-13
+C00709,Nurse,retail,7000,2024-10-21
+C00710,Retail Worker,retail,2500,2015-01-19
+C00711,Nurse,retail,6500,2019-06-14
+C00712,Contractor,retail,11500,2013-06-09
+C00713,Student,retail,2000,2020-06-05
+C00714,Contractor,retail,6500,2018-10-13
+C00715,Software Engineer,retail,8000,2022-01-14
+C00716,Small Business Owner,business,22000,2025-08-17
+C00717,Restaurant Owner,business,48000,2022-02-21
+C00718,Software Engineer,retail,11000,2020-05-05
+C00719,Student,retail,1000,2016-09-05
+C00720,Teacher,retail,4500,2013-11-22
+C00721,Retail Worker,retail,3000,2022-01-08
+C00722,Small Business Owner,business,19000,2020-02-19
+C00723,Small Business Owner,business,35500,2018-12-28
+C00724,Retiree,retail,4000,2025-05-29
+C00725,Restaurant Owner,business,37500,2013-11-10
+C00726,Student,retail,1500,2016-11-25
+C00727,Software Engineer,retail,10500,2013-10-15
+C00728,Nurse,retail,7000,2018-11-08
+C00729,Teacher,retail,4000,2015-02-24
+C00730,Retiree,retail,5000,2018-06-27
+C00731,Retiree,retail,2000,2015-04-26
+C00732,Student,retail,1500,2018-01-09
+C00733,Physician,retail,18500,2016-03-13
+C00734,Student,retail,1000,2017-02-22
+C00735,Restaurant Owner,business,20500,2020-04-26
+C00736,Small Business Owner,business,28500,2021-10-03
+C00737,Retiree,retail,4500,2013-10-16
+C00738,Student,retail,2000,2025-08-11
+C00739,Retail Worker,retail,2000,2023-04-07
+C00740,Retail Worker,retail,3000,2016-05-05
+C00741,Property Owner,retail,18500,2023-03-19
+C00742,Teacher,retail,5500,2013-08-13
+C00743,Nurse,retail,7000,2017-09-01
+C00744,Retiree,retail,3500,2017-05-05
+C00745,Student,retail,1000,2022-06-10
+C00746,Retiree,retail,3000,2015-01-08
+C00747,Small Business Owner,business,27500,2013-02-13
+C00748,Software Engineer,retail,9500,2015-07-10
+C00749,Small Business Owner,business,37500,2023-10-24
+C00750,Teacher,retail,6000,2024-06-19
+C00751,Nurse,retail,5500,2012-10-10
+C00752,Teacher,retail,3000,2015-10-01
+C00753,Small Business Owner,business,31000,2014-05-27
+C00754,Software Engineer,retail,9500,2017-07-26
+C00755,Retail Worker,retail,3500,2024-11-19
+C00756,Small Business Owner,business,22500,2019-06-20
+C00757,Physician,retail,22500,2014-03-17
+C00758,Restaurant Owner,business,32500,2022-12-29
+C00759,Physician,retail,18000,2014-09-17
+C00760,Contractor,retail,5500,2017-02-14
+C00761,Small Business Owner,business,25000,2019-05-07
+C00762,Software Engineer,retail,13500,2015-03-13
+C00763,Student,retail,1500,2015-12-02
+C00764,Software Engineer,retail,11000,2019-12-24
+C00765,Contractor,retail,8500,2022-03-08
+C00766,Physician,retail,16500,2022-08-16
+C00767,Small Business Owner,business,19000,2020-08-22
+C00768,Physician,retail,15000,2015-09-15
+C00769,Teacher,retail,4500,2017-01-18
+C00770,Small Business Owner,business,39500,2016-12-14
+C00771,Retail Worker,retail,3500,2025-08-15
+C00772,Small Business Owner,business,32000,2017-02-09
+C00773,Nurse,retail,6500,2012-04-13
+C00774,Small Business Owner,business,20500,2018-01-31
+C00775,Retiree,retail,5000,2015-11-27
+C00776,Retail Worker,retail,3500,2015-03-30
+C00777,Software Engineer,retail,15000,2025-04-12
+C00778,Software Engineer,retail,13500,2019-03-25
+C00779,Nurse,retail,4500,2022-12-13
+C00780,Retail Worker,retail,3000,2022-03-12
+C00781,Student,retail,1000,2012-06-09
+C00782,Teacher,retail,4500,2016-05-04
+C00783,Contractor,retail,10000,2024-11-09
+C00784,Small Business Owner,business,19500,2013-03-17
+C00785,Nurse,retail,6500,2022-01-22
+C00786,Software Engineer,retail,8000,2014-06-04
+C00787,Physician,retail,23000,2019-05-15
+C00788,Property Owner,retail,18500,2023-06-17
+C00789,Retiree,retail,3500,2021-10-03
+C00790,Retail Worker,retail,2500,2025-08-09
+C00791,Restaurant Owner,business,33500,2012-09-20
+C00792,Restaurant Owner,business,25000,2022-12-05
+C00793,Small Business Owner,business,16000,2019-10-28
+C00794,Retiree,retail,3500,2016-08-10
+C00795,Retail Worker,retail,2000,2013-03-15
+C00796,Nurse,retail,4500,2020-04-14
+C00797,Retiree,retail,3500,2017-11-23
+C00798,Small Business Owner,business,17000,2017-01-02
+C00799,Restaurant Owner,business,45500,2018-11-09
+C00800,Nurse,retail,6000,2020-02-22
+C00801,Restaurant Owner,business,35000,2025-04-19
+C00802,Retail Worker,retail,2500,2019-09-28
+C00803,Physician,retail,14500,2012-04-13
+C00804,Small Business Owner,business,32500,2025-01-11
+C00805,Student,retail,1500,2021-12-16
+C00806,Software Engineer,retail,14500,2019-10-02
+C00807,Retiree,retail,2000,2024-08-27
+C00808,Physician,retail,18000,2024-09-27
+C00809,Small Business Owner,business,33500,2023-03-06
+C00810,Software Engineer,retail,14000,2017-11-11
+C00811,Retiree,retail,4000,2018-10-16
+C00812,Student,retail,1500,2016-10-29
+C00813,Software Engineer,retail,9500,2016-10-24
+C00814,Teacher,retail,3000,2019-08-21
+C00815,Nurse,retail,5000,2016-01-19
+C00816,Teacher,retail,5500,2022-08-03
+C00817,Retiree,retail,3500,2012-02-01
+C00818,Nurse,retail,5500,2017-12-12
+C00819,Retail Worker,retail,3000,2022-12-12
+C00820,Contractor,retail,11500,2025-04-09
+C00821,Retiree,retail,3500,2025-04-14
+C00822,Retail Worker,retail,2500,2015-03-30
+C00823,Nurse,retail,5500,2025-01-30
+C00824,Student,retail,1500,2014-02-07
+C00825,Contractor,retail,6500,2025-04-29
+C00826,Retail Worker,retail,2500,2024-03-24
+C00827,Restaurant Owner,business,38500,2019-01-25
+C00828,Student,retail,2000,2024-10-25
+C00829,Retiree,retail,3500,2017-09-06
+C00830,Retail Worker,retail,4000,2024-02-05
+C00831,Retiree,retail,5000,2025-04-08
+C00832,Contractor,retail,10000,2023-12-27
+C00833,Contractor,retail,9500,2016-04-16
+C00834,Teacher,retail,5500,2025-02-07
+C00835,Retiree,retail,5000,2025-07-29
+C00836,Retiree,retail,2000,2014-02-03
+C00837,Retiree,retail,4000,2016-06-12
+C00838,Contractor,retail,6500,2021-01-21
+C00839,Small Business Owner,business,31500,2021-08-01
+C00840,Student,retail,1000,2025-03-19
+C00841,Restaurant Owner,business,26500,2024-11-11
+C00842,Teacher,retail,4500,2014-03-11
+C00843,Property Owner,retail,19500,2024-01-31
+C00844,Property Owner,retail,10000,2013-12-29
+C00845,Software Engineer,retail,10500,2018-10-24
+C00846,Teacher,retail,5500,2012-02-26
+C00847,Restaurant Owner,business,23000,2013-06-20
+C00848,Contractor,retail,7000,2015-05-05
+C00849,Contractor,retail,6500,2014-08-06
+C00850,Retail Worker,retail,4000,2020-06-15
+C00851,Small Business Owner,business,31500,2014-10-31
+C00852,Small Business Owner,business,30500,2021-04-21
+C00853,Student,retail,1500,2025-06-28
+C00854,Student,retail,1500,2015-02-18
+C00855,Retiree,retail,4500,2013-10-27
+C00856,Contractor,retail,9000,2016-01-08
+C00857,Retiree,retail,2500,2021-10-12
+C00858,Small Business Owner,business,30000,2013-04-10
+C00859,Physician,retail,13000,2020-07-14
+C00860,Retail Worker,retail,2000,2019-08-31
+C00861,Teacher,retail,5500,2017-10-30
+C00862,Teacher,retail,5000,2021-01-25
+C00863,Student,retail,1000,2017-03-05
+C00864,Physician,retail,18000,2017-02-08
+C00865,Teacher,retail,3500,2023-01-15
+C00866,Contractor,retail,7500,2023-03-03
+C00867,Student,retail,1000,2013-12-12
+C00868,Retiree,retail,4000,2025-08-25
+C00869,Retail Worker,retail,3500,2015-01-24
+C00870,Property Owner,retail,13500,2024-01-03
+C00871,Restaurant Owner,business,34000,2020-11-03
+C00872,Teacher,retail,5500,2023-12-08
+C00873,Retiree,retail,4500,2023-03-28
+C00874,Retiree,retail,2500,2018-06-09
+C00875,Teacher,retail,5000,2013-10-20
+C00876,Small Business Owner,business,24500,2015-03-06
+C00877,Nurse,retail,4500,2012-11-07
+C00878,Student,retail,2000,2017-10-28
+C00879,Physician,retail,23500,2020-07-18
+C00880,Retiree,retail,4000,2016-05-20
+C00881,Teacher,retail,3500,2015-12-06
+C00882,Property Owner,retail,12000,2022-02-22
+C00883,Software Engineer,retail,12000,2017-01-27
+C00884,Small Business Owner,business,36500,2023-05-14
+C00885,Software Engineer,retail,8500,2016-03-04
+C00886,Teacher,retail,3500,2017-01-25
+C00887,Retail Worker,retail,4000,2015-10-10
+C00888,Retiree,retail,3000,2020-04-29
+C00889,Retail Worker,retail,4000,2020-11-05
+C00890,Physician,retail,20500,2015-04-25
+C00891,Retiree,retail,2500,2022-07-16
+C00892,Teacher,retail,3500,2015-07-08
+C00893,Nurse,retail,5500,2020-11-16
+C00894,Contractor,retail,6000,2014-07-04
+C00895,Restaurant Owner,business,33000,2019-01-05
+C00896,Student,retail,1500,2013-04-11
+C00897,Small Business Owner,business,16500,2012-07-02
+C00898,Teacher,retail,3500,2016-11-21
+C00899,Student,retail,2000,2012-06-09
+C00900,Physician,retail,23000,2021-07-19
+C00901,Student,retail,1500,2022-06-27
+C00902,Retail Worker,retail,2500,2025-01-30
+C00903,Student,retail,2000,2022-01-31
+C00904,Restaurant Owner,business,24500,2024-10-04
+C00905,Contractor,retail,10000,2012-11-12
+C00906,Student,retail,1500,2014-06-13
+C00907,Retiree,retail,4000,2018-03-18
+C00908,Student,retail,2000,2020-10-22
+C00909,Student,retail,1500,2021-11-13
+C00910,Software Engineer,retail,9000,2025-03-03
+C00911,Student,retail,1500,2013-11-15
+C00912,Teacher,retail,3500,2025-02-04
+C00913,Contractor,retail,10000,2021-11-14
+C00914,Contractor,retail,5500,2017-01-15
+C00915,Restaurant Owner,business,43000,2022-07-23
+C00916,Retiree,retail,5000,2023-11-28
+C00917,Student,retail,1000,2024-09-29
+C00918,Nurse,retail,6000,2013-03-28
+C00919,Contractor,retail,6000,2015-04-20
+C00920,Student,retail,1000,2016-08-10
+C00921,Teacher,retail,5500,2015-10-01
+C00922,Retail Worker,retail,3500,2021-01-13
+C00923,Retail Worker,retail,3500,2014-03-08
+C00924,Retail Worker,retail,3000,2017-09-15
+C00925,Retail Worker,retail,2500,2015-02-20
+C00926,Nurse,retail,5000,2015-09-13
+C00927,Contractor,retail,11500,2013-09-18
+C00928,Contractor,retail,7500,2013-06-28
+C00929,Small Business Owner,business,27000,2018-08-25
+C00930,Teacher,retail,4500,2025-05-13
+C00931,Small Business Owner,business,17500,2015-07-23
+C00932,Student,retail,1000,2019-05-06
+C00933,Student,retail,1500,2012-10-29
+C00934,Retail Worker,retail,3500,2014-12-18
+C00935,Retail Worker,retail,4000,2014-04-02
+C00936,Retiree,retail,4000,2020-05-02
+C00937,Software Engineer,retail,11500,2024-05-24
+C00938,Retiree,retail,2000,2013-05-14
+C00939,Student,retail,1000,2012-05-24
+C00940,Nurse,retail,4500,2020-03-01
+C00941,Nurse,retail,6000,2019-02-01
+C00942,Software Engineer,retail,15000,2018-05-21
+C00943,Software Engineer,retail,11500,2025-02-02
+C00944,Teacher,retail,4000,2024-03-30
+C00945,Physician,retail,12500,2025-02-19
+C00946,Contractor,retail,5500,2012-05-01
+C00947,Restaurant Owner,business,36500,2017-09-01
+C00948,Student,retail,1500,2015-10-17
+C00949,Student,retail,1000,2025-08-22
+C00950,Retiree,retail,4500,2017-08-21
+C00951,Small Business Owner,business,25000,2023-07-12
+C00952,Teacher,retail,6000,2018-07-31
+C00953,Student,retail,1000,2014-06-07
+C00954,Contractor,retail,11000,2016-07-25
+C00955,Contractor,retail,7500,2016-11-10
+C00956,Retail Worker,retail,3000,2014-01-17
+C00957,Property Owner,retail,15000,2016-04-12
+C00958,Student,retail,1000,2025-04-05
+C00959,Teacher,retail,4500,2019-05-04
+C00960,Software Engineer,retail,12500,2019-04-14
+C00961,Teacher,retail,4000,2023-03-22
+C00962,Teacher,retail,4000,2019-10-01
+C00963,Retiree,retail,2500,2012-01-12
+C00964,Student,retail,2000,2023-08-06
+C00965,Software Engineer,retail,11000,2025-06-08
+C00966,Software Engineer,retail,14500,2023-11-22
+C00967,Small Business Owner,business,38000,2018-09-21
+C00968,Retiree,retail,3500,2014-08-19
+C00969,Software Engineer,retail,10000,2017-02-27
+C00970,Restaurant Owner,business,21000,2021-01-28
+C00971,Restaurant Owner,business,22000,2012-12-29
+C00972,Retiree,retail,2000,2020-12-27
+C00973,Contractor,retail,11500,2022-08-09
+C00974,Software Engineer,retail,10000,2022-07-22
+C00975,Retail Worker,retail,3500,2019-01-06
+C00976,Student,retail,1000,2018-08-22
+C00977,Retiree,retail,4500,2025-01-16
+C00978,Small Business Owner,business,23500,2023-01-17
+C00979,Nurse,retail,4500,2020-10-20
+C00980,Small Business Owner,business,38000,2013-02-13
+C00981,Contractor,retail,9000,2017-10-27
+C00982,Student,retail,1500,2015-03-22
+C00983,Teacher,retail,3000,2016-02-06
+C00984,Retail Worker,retail,2000,2015-06-06
+C00985,Small Business Owner,business,23500,2021-01-31
+C00986,Teacher,retail,5500,2021-10-29
+C00987,Contractor,retail,5000,2025-02-08
+C00988,Property Owner,retail,19500,2024-11-14
+C00989,Student,retail,2000,2018-02-14
+C00990,Student,retail,1000,2022-04-04
+C00991,Property Owner,retail,15500,2018-04-11
+C00992,Restaurant Owner,business,33000,2016-01-12
+C00993,Contractor,retail,8000,2020-12-13
+C00994,Small Business Owner,business,37500,2017-08-13
+C00995,Contractor,retail,8000,2013-01-20
+C00996,Contractor,retail,10000,2022-11-21
+C00997,Retiree,retail,4000,2020-01-08
+C00998,Contractor,retail,5000,2018-06-22
+C00999,Retiree,retail,2500,2015-01-01
+C01000,Physician,retail,17000,2021-04-25

@@ -1,0 +1,45 @@
+scenario_id,scenario_type,variant,subject_id,customer_id,window_start,window_end,n_transactions,total_usd,description,detected_by,alert_ids,detected
+S001,RAPID_PASS_THROUGH,standard,A000188,C00131,2025-10-04 19:39:27,2025-10-06 18:21:19,9,47243.73,"8 inbound transfers over 28h, 94% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0055, AL-0059",True
+S002,RAPID_PASS_THROUGH,standard,A001158,C00797,2025-08-09 23:11:28,2025-08-12 04:50:23,10,57068.04,"9 inbound transfers over 59h, 88% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0029, AL-0037",True
+S003,RAPID_PASS_THROUGH,standard,A000464,C00323,2025-09-10 12:17:20,2025-09-12 18:23:34,10,56288.05,"9 inbound transfers over 29h, 86% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE, R3_MANY_TO_ONE","AL-0040, AL-0042, AL-0049",True
+S004,RAPID_PASS_THROUGH,standard,A001040,C00719,2025-10-03 14:04:59,2025-10-05 20:35:22,6,33382.63,"5 inbound transfers over 35h, 93% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0054, AL-0062",True
+S005,RAPID_PASS_THROUGH,standard,A001056,C00730,2025-09-12 00:07:21,2025-09-14 03:51:04,6,28687.45,"5 inbound transfers over 50h, 85% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0044, AL-0053",True
+S006,RAPID_PASS_THROUGH,standard,A000843,C00581,2025-06-08 22:38:36,2025-06-11 12:06:19,7,34279.09,"6 inbound transfers over 49h, 86% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0015, AL-0018",True
+S007,RAPID_PASS_THROUGH,standard,A000671,C00461,2025-09-11 21:57:02,2025-09-14 04:58:22,7,31438.24,"6 inbound transfers over 58h, 91% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0043, AL-0051",True
+S008,RAPID_PASS_THROUGH,standard,A000629,C00433,2025-09-16 13:41:07,2025-09-19 04:24:17,8,43057.23,"7 inbound transfers over 58h, 91% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0045, AL-0050",True
+S009,RAPID_PASS_THROUGH,standard,A000443,C00308,2025-08-12 12:53:34,2025-08-14 10:29:13,8,48554.02,"7 inbound transfers over 39h, 88% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE","AL-0030, AL-0034",True
+S010,RAPID_PASS_THROUGH,standard,A000921,C00635,2025-11-06 16:57:38,2025-11-09 00:23:52,10,50515.54,"9 inbound transfers over 56h, 90% forwarded by wire","R1_RAPID_PASS_THROUGH, R2_ACTIVITY_SPIKE, R3_MANY_TO_ONE","AL-0066, AL-0067, AL-0070",True
+S011,RAPID_PASS_THROUGH,subtle,A000651,C00447,2025-05-13 15:42:00,2025-05-19 12:53:48,6,32495.9,"5 inbound transfers over 139h, 84% forwarded by wire",R2_ACTIVITY_SPIKE,AL-0010,True
+S012,RAPID_PASS_THROUGH,subtle,A001182,C00815,2025-05-16 08:15:06,2025-05-21 15:14:46,6,30721.71,"5 inbound transfers over 157h, 85% forwarded by wire",R2_ACTIVITY_SPIKE,AL-0012,True
+S013,ACTIVITY_SPIKE,standard,A001255,C00865,2025-05-05 16:28:24,2025-05-22 01:27:27,6,72389.94,Inflow of ~10.9x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0014,True
+S014,ACTIVITY_SPIKE,standard,A000902,C00620,2025-07-07 11:12:17,2025-07-21 07:36:54,6,73457.33,Inflow of ~7.7x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0026,True
+S015,ACTIVITY_SPIKE,standard,A000421,C00295,2025-06-06 14:11:15,2025-06-15 21:08:23,5,100318.86,Inflow of ~9.6x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0017,True
+S016,ACTIVITY_SPIKE,standard,A000374,C00260,2025-07-03 16:57:46,2025-07-16 17:30:40,5,41800.0,Inflow of ~7.1x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0024,True
+S017,ACTIVITY_SPIKE,standard,A000933,C00642,2025-10-07 13:38:22,2025-10-25 18:22:43,6,91688.29,Inflow of ~10.7x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0061,True
+S018,ACTIVITY_SPIKE,standard,A000471,C00328,2025-10-04 09:57:26,2025-10-15 09:52:01,4,73392.75,Inflow of ~7.7x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0060,True
+S019,ACTIVITY_SPIKE,standard,A000797,C00548,2025-08-01 16:29:37,2025-08-11 19:47:49,5,71657.74,Inflow of ~10.8x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0035,True
+S020,ACTIVITY_SPIKE,standard,A001135,C00782,2025-06-03 15:55:23,2025-06-14 15:44:15,5,69647.0,Inflow of ~8.1x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0019,True
+S021,ACTIVITY_SPIKE,standard,A001436,C00986,2025-08-08 08:51:32,2025-08-19 15:30:30,4,106079.69,Inflow of ~10.2x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0039,True
+S022,ACTIVITY_SPIKE,standard,A001409,C00968,2025-08-07 16:27:50,2025-08-21 16:13:06,6,51834.87,Inflow of ~7.8x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0038,True
+S023,ACTIVITY_SPIKE,subtle,A000409,C00288,2025-11-04 08:48:43,2025-11-20 03:19:40,6,23144.96,Inflow of ~1.7x declared monthly activity moved out within weeks,,,False
+S024,ACTIVITY_SPIKE,subtle,A000723,C00496,2025-12-08 17:14:45,2025-12-24 08:41:23,6,18576.51,Inflow of ~1.8x declared monthly activity moved out within weeks,R2_ACTIVITY_SPIKE,AL-0072,True
+S025,MANY_TO_ONE,standard,EXT-BEN-9500,,2025-05-20 14:04:59,2025-05-25 12:51:52,10,29482.32,10 unrelated accounts wire funds to one new beneficiary within ~6 days,R3_MANY_TO_ONE,AL-0007,True
+S026,MANY_TO_ONE,standard,EXT-BEN-9501,,2025-06-09 23:45:03,2025-06-14 15:22:11,9,28140.35,9 unrelated accounts wire funds to one new beneficiary within ~6 days,R3_MANY_TO_ONE,AL-0016,True
+S027,MANY_TO_ONE,standard,EXT-BEN-9502,,2025-05-13 09:42:51,2025-05-19 03:42:36,10,31043.8,10 unrelated accounts wire funds to one new beneficiary within ~6 days,R3_MANY_TO_ONE,AL-0005,True
+S028,MANY_TO_ONE,standard,EXT-BEN-9503,,2025-05-18 19:02:49,2025-05-23 23:25:42,9,29167.39,9 unrelated accounts wire funds to one new beneficiary within ~6 days,R3_MANY_TO_ONE,AL-0006,True
+S029,MANY_TO_ONE,standard,EXT-BEN-9504,,2025-04-16 02:10:54,2025-04-20 21:32:33,10,28347.45,10 unrelated accounts wire funds to one new beneficiary within ~6 days,R3_MANY_TO_ONE,AL-0002,True
+S030,MANY_TO_ONE,standard,EXT-BEN-9505,,2025-11-09 19:59:29,2025-11-14 20:02:21,11,32583.3,11 unrelated accounts wire funds to one new beneficiary within ~6 days,R3_MANY_TO_ONE,AL-0068,True
+S031,MANY_TO_ONE,subtle,EXT-BEN-9506,,2025-11-04 01:54:30,2025-11-08 23:23:10,5,13002.24,5 unrelated accounts wire funds to one new beneficiary within ~6 days,,,False
+S032,MANY_TO_ONE,subtle,EXT-BEN-9507,,2025-09-19 17:55:21,2025-09-22 12:48:41,5,14839.0,5 unrelated accounts wire funds to one new beneficiary within ~6 days,,,False
+S033,STRUCTURING,standard,A001106,C00762,2025-10-03 00:50:39,2025-10-10 19:51:55,6,56960.0,"6 cash deposits between 90% and 100% of the $10,000 threshold within 9 days","R2_ACTIVITY_SPIKE, R4_STRUCTURING","AL-0056, AL-0063",True
+S034,STRUCTURING,standard,A000985,C00680,2025-05-24 17:51:00,2025-05-26 17:24:01,3,28440.0,"3 cash deposits between 90% and 100% of the $10,000 threshold within 9 days","R2_ACTIVITY_SPIKE, R4_STRUCTURING","AL-0008, AL-0011",True
+S035,STRUCTURING,standard,A001033,C00715,2025-09-12 16:31:27,2025-09-19 16:07:18,4,37410.0,"4 cash deposits between 90% and 100% of the $10,000 threshold within 9 days","R2_ACTIVITY_SPIKE, R4_STRUCTURING","AL-0046, AL-0052",True
+S036,STRUCTURING,standard,A001361,C00937,2025-07-13 23:37:24,2025-07-21 22:22:21,4,37990.0,"4 cash deposits between 90% and 100% of the $10,000 threshold within 9 days","R2_ACTIVITY_SPIKE, R4_STRUCTURING","AL-0022, AL-0027",True
+S037,STRUCTURING,standard,A001347,C00928,2025-10-09 14:17:40,2025-10-16 15:56:22,5,47240.0,"5 cash deposits between 90% and 100% of the $10,000 threshold within 9 days","R2_ACTIVITY_SPIKE, R4_STRUCTURING","AL-0057, AL-0065",True
+S038,STRUCTURING,standard,A000417,C00292,2025-07-14 17:56:33,2025-07-21 21:10:02,6,57160.0,"6 cash deposits between 90% and 100% of the $10,000 threshold within 9 days",R4_STRUCTURING,AL-0020,True
+S039,STRUCTURING,standard,A000385,C00269,2025-09-05 17:26:05,2025-09-11 15:16:30,6,56200.0,"6 cash deposits between 90% and 100% of the $10,000 threshold within 9 days","R2_ACTIVITY_SPIKE, R4_STRUCTURING","AL-0041, AL-0048",True
+S040,STRUCTURING,standard,A000451,C00312,2025-11-13 15:22:57,2025-11-18 10:42:55,3,28510.0,"3 cash deposits between 90% and 100% of the $10,000 threshold within 9 days",R4_STRUCTURING,AL-0069,True
+S041,STRUCTURING,standard,A000882,C00608,2025-08-03 12:40:01,2025-08-10 13:37:22,5,47280.0,"5 cash deposits between 90% and 100% of the $10,000 threshold within 9 days","R2_ACTIVITY_SPIKE, R4_STRUCTURING","AL-0028, AL-0036",True
+S042,STRUCTURING,standard,A000993,C00685,2025-05-07 18:31:29,2025-05-12 21:54:24,4,37800.0,"4 cash deposits between 90% and 100% of the $10,000 threshold within 9 days",R4_STRUCTURING,AL-0004,True
+S043,STRUCTURING,subtle,A000269,C00187,2025-12-02 15:08:03,2025-12-09 19:29:43,6,51100.0,"6 cash deposits between 80% and 88% of the $10,000 threshold within 9 days",,,False
+S044,STRUCTURING,subtle,A000722,C00495,2025-12-18 12:03:52,2025-12-25 14:08:32,6,50570.0,"6 cash deposits between 80% and 88% of the $10,000 threshold within 9 days",R2_ACTIVITY_SPIKE,AL-0071,True

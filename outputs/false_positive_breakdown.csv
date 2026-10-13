@@ -1,0 +1,5 @@
+rule_id,fp_cause,alerts
+R2_ACTIVITY_SPIKE,Planted benign look-alike: Community fundraiser / medical-bill collection among friends,2
+R2_ACTIVITY_SPIKE,Planted benign look-alike: Home sale proceeds / car purchase (one-off life event),6
+R3_MANY_TO_ONE,Planted benign look-alike: Community fundraiser / medical-bill collection among friends,2
+R4_STRUCTURING,Planted benign look-alike: Cash-intensive restaurant: weekend takings deposited near the threshold,3

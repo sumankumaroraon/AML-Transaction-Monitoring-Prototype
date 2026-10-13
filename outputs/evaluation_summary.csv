@@ -1,0 +1,6 @@
+scope,alerts,matched_alerts,precision,scenarios,scenarios_detected,recall
+All rules,72,59,0.819,44,40,0.909
+R1 Rapid pass-through,10,10,1.0,44,10,0.227
+R2 Activity spike,39,31,0.795,44,31,0.705
+R3 Many-to-one beneficiary,10,8,0.8,44,8,0.182
+R4 Below-threshold structuring,13,10,0.769,44,10,0.227

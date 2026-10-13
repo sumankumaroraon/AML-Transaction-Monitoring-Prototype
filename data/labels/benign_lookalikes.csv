@@ -1,0 +1,20 @@
+lookalike_id,resembles,subject_id,description,window_start,window_end,n_txns
+B01,ACTIVITY_SPIKE,A000089,Home sale proceeds / car purchase (one-off life event),2025-09-09 15:25:42,2025-09-13 15:25:42,2.0
+B02,ACTIVITY_SPIKE,A000393,Home sale proceeds / car purchase (one-off life event),2025-07-05 16:50:49,2025-07-07 16:50:49,2.0
+B03,ACTIVITY_SPIKE,A000009,Home sale proceeds / car purchase (one-off life event),2025-07-05 11:11:33,2025-07-09 11:11:33,2.0
+B04,ACTIVITY_SPIKE,A001187,Home sale proceeds / car purchase (one-off life event),2025-05-06 14:11:17,2025-05-08 14:11:17,2.0
+B05,ACTIVITY_SPIKE,A000436,Home sale proceeds / car purchase (one-off life event),2025-08-10 18:59:56,2025-08-15 18:59:56,2.0
+B06,ACTIVITY_SPIKE,A000171,Home sale proceeds / car purchase (one-off life event),2025-05-06 09:59:11,2025-05-09 09:59:11,2.0
+B07,MANY_TO_ONE,A000176,Community fundraiser / medical-bill collection among friends,2025-08-19 17:08:27,2025-08-24 17:08:27,10.0
+B08,MANY_TO_ONE,A001238,Community fundraiser / medical-bill collection among friends,2025-10-12 14:41:13,2025-10-17 14:41:13,10.0
+B09,MANY_TO_ONE,A000001,Landlord collecting monthly rent from 6 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B10,MANY_TO_ONE,A000005,Landlord collecting monthly rent from 8 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B11,MANY_TO_ONE,A000023,Landlord collecting monthly rent from 9 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B12,MANY_TO_ONE,A000077,Landlord collecting monthly rent from 8 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B13,MANY_TO_ONE,A000119,Landlord collecting monthly rent from 8 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B14,MANY_TO_ONE,A000144,Landlord collecting monthly rent from 8 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B15,MANY_TO_ONE,A000152,Landlord collecting monthly rent from 6 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B16,MANY_TO_ONE,A000167,Landlord collecting monthly rent from 9 tenants,2025-01-01 00:00:00,2025-12-31 23:59:59,
+B17,STRUCTURING,A000928,Cash-intensive restaurant: weekend takings deposited near the threshold,2025-03-07 10:07:23,2025-03-17 10:07:23,3.0
+B18,STRUCTURING,A000418,Cash-intensive restaurant: weekend takings deposited near the threshold,2025-05-01 10:03:34,2025-05-11 10:03:34,3.0
+B19,STRUCTURING,A000539,Cash-intensive restaurant: weekend takings deposited near the threshold,2025-07-13 18:32:05,2025-07-23 18:32:05,3.0

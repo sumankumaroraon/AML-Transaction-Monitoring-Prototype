@@ -1,0 +1,5 @@
+scenario_type,scenarios,detected,recall
+ACTIVITY_SPIKE,12,11,0.917
+MANY_TO_ONE,8,6,0.75
+RAPID_PASS_THROUGH,12,12,1.0
+STRUCTURING,12,11,0.917

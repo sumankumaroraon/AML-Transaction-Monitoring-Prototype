@@ -1,0 +1,48 @@
+{
+  "_note": "Project assumptions for a synthetic simulation. These are NOT regulatory or legal thresholds.",
+  "monitoring_threshold_usd": 10000,
+  "rules": {
+    "R1_RAPID_PASS_THROUGH": {
+      "description": "Several incoming transfers from different senders, followed shortly by one large outgoing transfer of a similar amount.",
+      "lookback_hours": 72,
+      "min_in_count": 4,
+      "min_distinct_senders": 3,
+      "min_out_usd": 8000,
+      "min_out_ratio": 0.70,
+      "max_out_ratio": 1.20
+    },
+    "R2_ACTIVITY_SPIKE": {
+      "description": "Account's monthly activity far above its own recent history and above the customer's declared expected activity.",
+      "min_month_usd": 20000,
+      "spike_multiplier": 5.0,
+      "profile_multiplier": 3.0,
+      "history_months": 3
+    },
+    "R3_MANY_TO_ONE": {
+      "description": "Many different accounts, with no recent payment relationship, sending funds to the same beneficiary in a short window.",
+      "window_days": 7,
+      "min_new_senders": 6,
+      "min_total_usd": 15000,
+      "relationship_days": 60,
+      "apply_warmup": 1
+    },
+    "R4_STRUCTURING": {
+      "description": "Repeated cash deposits just below the configurable monitoring threshold.",
+      "band_pct": 0.90,
+      "window_days": 10,
+      "min_count": 3
+    }
+  },
+  "alert_merge_gap_days": 7,
+  "priority": {
+    "base_score": {"R1_RAPID_PASS_THROUGH": 40, "R2_ACTIVITY_SPIKE": 25, "R3_MANY_TO_ONE": 35, "R4_STRUCTURING": 40},
+    "value_25k_bonus": 10,
+    "value_50k_bonus": 15,
+    "new_account_days": 180,
+    "new_account_bonus": 10,
+    "multi_rule_bonus": 15,
+    "high_min": 60,
+    "medium_min": 40
+  },
+  "fx_to_usd": {"USD": 1.0, "EUR": 1.08, "GBP": 1.27, "CAD": 0.73}
+}

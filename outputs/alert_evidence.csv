@@ -1,0 +1,608 @@
+alert_id,transaction_id,evidence_role
+AL-0001,T0009404,Cash deposit just below threshold
+AL-0001,T0009816,Cash deposit just below threshold
+AL-0001,T0009987,Cash deposit just below threshold
+AL-0002,T0014543,Payment to beneficiary
+AL-0002,T0014651,Payment to beneficiary
+AL-0002,T0014831,Payment to beneficiary
+AL-0002,T0014888,Payment to beneficiary
+AL-0002,T0014921,Payment to beneficiary
+AL-0002,T0015030,Payment to beneficiary
+AL-0002,T0015038,Payment to beneficiary
+AL-0002,T0015040,Payment to beneficiary
+AL-0002,T0015191,Payment to beneficiary
+AL-0002,T0015270,Payment to beneficiary
+AL-0003,T0017404,Cash deposit just below threshold
+AL-0003,T0017527,Cash deposit just below threshold
+AL-0003,T0017959,Cash deposit just below threshold
+AL-0004,T0017913,Cash deposit just below threshold
+AL-0004,T0018144,Cash deposit just below threshold
+AL-0004,T0018249,Cash deposit just below threshold
+AL-0004,T0018455,Cash deposit just below threshold
+AL-0005,T0018478,Payment to beneficiary
+AL-0005,T0018514,Payment to beneficiary
+AL-0005,T0018546,Payment to beneficiary
+AL-0005,T0018575,Payment to beneficiary
+AL-0005,T0018591,Payment to beneficiary
+AL-0005,T0019346,Payment to beneficiary
+AL-0005,T0019390,Payment to beneficiary
+AL-0005,T0019392,Payment to beneficiary
+AL-0005,T0019395,Payment to beneficiary
+AL-0005,T0019405,Payment to beneficiary
+AL-0006,T0019385,Payment to beneficiary
+AL-0006,T0019403,Payment to beneficiary
+AL-0006,T0019600,Payment to beneficiary
+AL-0006,T0019624,Payment to beneficiary
+AL-0006,T0019725,Payment to beneficiary
+AL-0006,T0019793,Payment to beneficiary
+AL-0006,T0019874,Payment to beneficiary
+AL-0006,T0019962,Payment to beneficiary
+AL-0006,T0019983,Payment to beneficiary
+AL-0007,T0019571,Payment to beneficiary
+AL-0007,T0019656,Payment to beneficiary
+AL-0007,T0019661,Payment to beneficiary
+AL-0007,T0019711,Payment to beneficiary
+AL-0007,T0019854,Payment to beneficiary
+AL-0007,T0019869,Payment to beneficiary
+AL-0007,T0020027,Payment to beneficiary
+AL-0007,T0020089,Payment to beneficiary
+AL-0007,T0020124,Payment to beneficiary
+AL-0007,T0020146,Payment to beneficiary
+AL-0008,T0020069,Cash deposit just below threshold
+AL-0008,T0020174,Cash deposit just below threshold
+AL-0008,T0020349,Cash deposit just below threshold
+AL-0009,T0017044,Money out (alert month)
+AL-0009,T0017531,Money out (alert month)
+AL-0009,T0018060,Money out (alert month)
+AL-0009,T0020071,Money out (alert month)
+AL-0009,T0020330,Money out (alert month)
+AL-0009,T0017409,Money in (alert month)
+AL-0009,T0017722,Money in (alert month)
+AL-0009,T0019973,Money in (alert month)
+AL-0010,T0016969,Money out (alert month)
+AL-0010,T0018886,Money out (alert month)
+AL-0010,T0019447,Money out (alert month)
+AL-0010,T0016788,Money in (alert month)
+AL-0010,T0016851,Money in (alert month)
+AL-0010,T0018529,Money in (alert month)
+AL-0010,T0018699,Money in (alert month)
+AL-0010,T0018925,Money in (alert month)
+AL-0010,T0018940,Money in (alert month)
+AL-0010,T0019277,Money in (alert month)
+AL-0011,T0016868,Money out (alert month)
+AL-0011,T0017940,Money in (alert month)
+AL-0011,T0020069,Money in (alert month)
+AL-0011,T0020174,Money in (alert month)
+AL-0011,T0020349,Money in (alert month)
+AL-0012,T0017623,Money out (alert month)
+AL-0012,T0019701,Money out (alert month)
+AL-0012,T0020571,Money out (alert month)
+AL-0012,T0016909,Money in (alert month)
+AL-0012,T0018729,Money in (alert month)
+AL-0012,T0018965,Money in (alert month)
+AL-0012,T0019152,Money in (alert month)
+AL-0012,T0019191,Money in (alert month)
+AL-0012,T0019281,Money in (alert month)
+AL-0012,T0019449,Money in (alert month)
+AL-0013,T0017982,Money out (alert month)
+AL-0013,T0019482,Money out (alert month)
+AL-0013,T0020763,Money out (alert month)
+AL-0013,T0017757,Money in (alert month)
+AL-0013,T0020931,Money in (alert month)
+AL-0014,T0017759,Money out (alert month)
+AL-0014,T0018137,Money out (alert month)
+AL-0014,T0018430,Money out (alert month)
+AL-0014,T0018697,Money out (alert month)
+AL-0014,T0019705,Money out (alert month)
+AL-0014,T0019757,Money out (alert month)
+AL-0014,T0020033,Money out (alert month)
+AL-0014,T0020047,Money out (alert month)
+AL-0014,T0020246,Money out (alert month)
+AL-0014,T0017661,Money in (alert month)
+AL-0014,T0020865,Money in (alert month)
+AL-0015,T0022420,Incoming transfer
+AL-0015,T0022435,Incoming transfer
+AL-0015,T0022437,Incoming transfer
+AL-0015,T0022533,Incoming transfer
+AL-0015,T0022561,Incoming transfer
+AL-0015,T0022566,Incoming transfer
+AL-0015,T0022687,Large outgoing transfer
+AL-0016,T0022530,Payment to beneficiary
+AL-0016,T0022538,Payment to beneficiary
+AL-0016,T0022554,Payment to beneficiary
+AL-0016,T0022632,Payment to beneficiary
+AL-0016,T0022750,Payment to beneficiary
+AL-0016,T0022817,Payment to beneficiary
+AL-0016,T0022862,Payment to beneficiary
+AL-0016,T0022981,Payment to beneficiary
+AL-0016,T0023047,Payment to beneficiary
+AL-0017,T0022256,Money out (alert month)
+AL-0017,T0022640,Money out (alert month)
+AL-0017,T0022659,Money out (alert month)
+AL-0017,T0022857,Money out (alert month)
+AL-0017,T0023078,Money out (alert month)
+AL-0017,T0023349,Money out (alert month)
+AL-0017,T0021586,Money in (alert month)
+AL-0017,T0022200,Money in (alert month)
+AL-0017,T0022307,Money in (alert month)
+AL-0017,T0022473,Money in (alert month)
+AL-0017,T0023273,Money in (alert month)
+AL-0018,T0022687,Money out (alert month)
+AL-0018,T0024226,Money out (alert month)
+AL-0018,T0022420,Money in (alert month)
+AL-0018,T0022435,Money in (alert month)
+AL-0018,T0022437,Money in (alert month)
+AL-0018,T0022533,Money in (alert month)
+AL-0018,T0022561,Money in (alert month)
+AL-0018,T0022566,Money in (alert month)
+AL-0018,T0025365,Money in (alert month)
+AL-0019,T0022301,Money out (alert month)
+AL-0019,T0022644,Money out (alert month)
+AL-0019,T0023050,Money out (alert month)
+AL-0019,T0023712,Money out (alert month)
+AL-0019,T0023749,Money out (alert month)
+AL-0019,T0024611,Money out (alert month)
+AL-0019,T0021853,Money in (alert month)
+AL-0019,T0022213,Money in (alert month)
+AL-0019,T0025433,Money in (alert month)
+AL-0020,T0027367,Cash deposit just below threshold
+AL-0020,T0027585,Cash deposit just below threshold
+AL-0020,T0028069,Cash deposit just below threshold
+AL-0020,T0028204,Cash deposit just below threshold
+AL-0020,T0028294,Cash deposit just below threshold
+AL-0020,T0028444,Cash deposit just below threshold
+AL-0021,T0027587,Cash deposit just below threshold
+AL-0021,T0028324,Cash deposit just below threshold
+AL-0021,T0028445,Cash deposit just below threshold
+AL-0022,T0027291,Cash deposit just below threshold
+AL-0022,T0027869,Cash deposit just below threshold
+AL-0022,T0028219,Cash deposit just below threshold
+AL-0022,T0028446,Cash deposit just below threshold
+AL-0023,T0026785,Money out (alert month)
+AL-0023,T0027212,Money out (alert month)
+AL-0023,T0028292,Money out (alert month)
+AL-0023,T0028764,Money out (alert month)
+AL-0023,T0025733,Money in (alert month)
+AL-0023,T0026368,Money in (alert month)
+AL-0023,T0027836,Money in (alert month)
+AL-0024,T0026654,Money out (alert month)
+AL-0024,T0026881,Money out (alert month)
+AL-0024,T0026915,Money out (alert month)
+AL-0024,T0027091,Money out (alert month)
+AL-0024,T0027775,Money out (alert month)
+AL-0024,T0027811,Money out (alert month)
+AL-0024,T0027865,Money out (alert month)
+AL-0024,T0025931,Money in (alert month)
+AL-0024,T0026213,Money in (alert month)
+AL-0024,T0027302,Money in (alert month)
+AL-0024,T0027749,Money in (alert month)
+AL-0025,T0026632,Money out (alert month)
+AL-0025,T0027344,Money out (alert month)
+AL-0025,T0028030,Money out (alert month)
+AL-0025,T0026225,Money in (alert month)
+AL-0025,T0026426,Money in (alert month)
+AL-0026,T0027016,Money out (alert month)
+AL-0026,T0027276,Money out (alert month)
+AL-0026,T0027586,Money out (alert month)
+AL-0026,T0027990,Money out (alert month)
+AL-0026,T0028337,Money out (alert month)
+AL-0026,T0028741,Money out (alert month)
+AL-0026,T0026594,Money in (alert month)
+AL-0026,T0029664,Money in (alert month)
+AL-0027,T0026837,Money out (alert month)
+AL-0027,T0028008,Money out (alert month)
+AL-0027,T0027291,Money in (alert month)
+AL-0027,T0027869,Money in (alert month)
+AL-0027,T0028219,Money in (alert month)
+AL-0027,T0028446,Money in (alert month)
+AL-0027,T0029524,Money in (alert month)
+AL-0028,T0030521,Cash deposit just below threshold
+AL-0028,T0030633,Cash deposit just below threshold
+AL-0028,T0030989,Cash deposit just below threshold
+AL-0028,T0031144,Cash deposit just below threshold
+AL-0028,T0031361,Cash deposit just below threshold
+AL-0029,T0031301,Incoming transfer
+AL-0029,T0031310,Incoming transfer
+AL-0029,T0031380,Incoming transfer
+AL-0029,T0031420,Incoming transfer
+AL-0029,T0031426,Incoming transfer
+AL-0029,T0031431,Incoming transfer
+AL-0029,T0031448,Incoming transfer
+AL-0029,T0031469,Incoming transfer
+AL-0029,T0031507,Incoming transfer
+AL-0029,T0031530,Large outgoing transfer
+AL-0030,T0031561,Incoming transfer
+AL-0030,T0031607,Incoming transfer
+AL-0030,T0031609,Incoming transfer
+AL-0030,T0031617,Incoming transfer
+AL-0030,T0031643,Incoming transfer
+AL-0030,T0031683,Incoming transfer
+AL-0030,T0031731,Incoming transfer
+AL-0030,T0031761,Large outgoing transfer
+AL-0031,T0032836,Payment to beneficiary
+AL-0031,T0032844,Payment to beneficiary
+AL-0031,T0032845,Payment to beneficiary
+AL-0031,T0032848,Payment to beneficiary
+AL-0031,T0032876,Payment to beneficiary
+AL-0031,T0032953,Payment to beneficiary
+AL-0031,T0032963,Payment to beneficiary
+AL-0031,T0033071,Payment to beneficiary
+AL-0031,T0033188,Payment to beneficiary
+AL-0031,T0033199,Payment to beneficiary
+AL-0032,T0032694,Money out (alert month)
+AL-0032,T0032836,Money in (alert month)
+AL-0032,T0032844,Money in (alert month)
+AL-0032,T0032845,Money in (alert month)
+AL-0032,T0032848,Money in (alert month)
+AL-0032,T0032876,Money in (alert month)
+AL-0032,T0032953,Money in (alert month)
+AL-0032,T0032963,Money in (alert month)
+AL-0032,T0033071,Money in (alert month)
+AL-0032,T0033188,Money in (alert month)
+AL-0032,T0033199,Money in (alert month)
+AL-0032,T0034262,Money in (alert month)
+AL-0033,T0032101,Money out (alert month)
+AL-0033,T0033637,Money out (alert month)
+AL-0033,T0029958,Money in (alert month)
+AL-0033,T0031404,Money in (alert month)
+AL-0033,T0031553,Money in (alert month)
+AL-0034,T0030198,Money out (alert month)
+AL-0034,T0031761,Money out (alert month)
+AL-0034,T0033498,Money out (alert month)
+AL-0034,T0034325,Money out (alert month)
+AL-0034,T0031561,Money in (alert month)
+AL-0034,T0031607,Money in (alert month)
+AL-0034,T0031609,Money in (alert month)
+AL-0034,T0031617,Money in (alert month)
+AL-0034,T0031643,Money in (alert month)
+AL-0034,T0031683,Money in (alert month)
+AL-0034,T0031731,Money in (alert month)
+AL-0034,T0033957,Money in (alert month)
+AL-0035,T0030821,Money out (alert month)
+AL-0035,T0031204,Money out (alert month)
+AL-0035,T0031519,Money out (alert month)
+AL-0035,T0033224,Money out (alert month)
+AL-0035,T0033704,Money out (alert month)
+AL-0035,T0034368,Money out (alert month)
+AL-0035,T0030074,Money in (alert month)
+AL-0035,T0030679,Money in (alert month)
+AL-0035,T0033911,Money in (alert month)
+AL-0036,T0030413,Money out (alert month)
+AL-0036,T0030257,Money in (alert month)
+AL-0036,T0030521,Money in (alert month)
+AL-0036,T0030633,Money in (alert month)
+AL-0036,T0030989,Money in (alert month)
+AL-0036,T0031144,Money in (alert month)
+AL-0036,T0031361,Money in (alert month)
+AL-0036,T0031896,Money in (alert month)
+AL-0037,T0030473,Money out (alert month)
+AL-0037,T0031530,Money out (alert month)
+AL-0037,T0033411,Money out (alert month)
+AL-0037,T0033730,Money out (alert month)
+AL-0037,T0034084,Money out (alert month)
+AL-0037,T0030586,Money in (alert month)
+AL-0037,T0031301,Money in (alert month)
+AL-0037,T0031310,Money in (alert month)
+AL-0037,T0031380,Money in (alert month)
+AL-0037,T0031420,Money in (alert month)
+AL-0037,T0031426,Money in (alert month)
+AL-0037,T0031431,Money in (alert month)
+AL-0037,T0031448,Money in (alert month)
+AL-0037,T0031469,Money in (alert month)
+AL-0037,T0031507,Money in (alert month)
+AL-0037,T0031646,Money in (alert month)
+AL-0038,T0030939,Money out (alert month)
+AL-0038,T0031506,Money out (alert month)
+AL-0038,T0031850,Money out (alert month)
+AL-0038,T0032359,Money out (alert month)
+AL-0038,T0032729,Money out (alert month)
+AL-0038,T0032838,Money out (alert month)
+AL-0038,T0032914,Money out (alert month)
+AL-0038,T0030579,Money in (alert month)
+AL-0038,T0031038,Money in (alert month)
+AL-0039,T0031086,Money out (alert month)
+AL-0039,T0031424,Money out (alert month)
+AL-0039,T0031549,Money out (alert month)
+AL-0039,T0031848,Money out (alert month)
+AL-0039,T0032677,Money out (alert month)
+AL-0039,T0032714,Money out (alert month)
+AL-0039,T0034087,Money out (alert month)
+AL-0039,T0030291,Money in (alert month)
+AL-0039,T0031083,Money in (alert month)
+AL-0039,T0032178,Money in (alert month)
+AL-0039,T0032890,Money in (alert month)
+AL-0040,T0035993,Payment to beneficiary
+AL-0040,T0036028,Payment to beneficiary
+AL-0040,T0036035,Payment to beneficiary
+AL-0040,T0036037,Payment to beneficiary
+AL-0040,T0036047,Payment to beneficiary
+AL-0040,T0036050,Payment to beneficiary
+AL-0040,T0036053,Payment to beneficiary
+AL-0041,T0035435,Cash deposit just below threshold
+AL-0041,T0035569,Cash deposit just below threshold
+AL-0041,T0035680,Cash deposit just below threshold
+AL-0041,T0035804,Cash deposit just below threshold
+AL-0041,T0035905,Cash deposit just below threshold
+AL-0041,T0036103,Cash deposit just below threshold
+AL-0042,T0035961,Incoming transfer
+AL-0042,T0035993,Incoming transfer
+AL-0042,T0036028,Incoming transfer
+AL-0042,T0036035,Incoming transfer
+AL-0042,T0036037,Incoming transfer
+AL-0042,T0036046,Incoming transfer
+AL-0042,T0036047,Incoming transfer
+AL-0042,T0036050,Incoming transfer
+AL-0042,T0036053,Incoming transfer
+AL-0042,T0036233,Large outgoing transfer
+AL-0043,T0036144,Incoming transfer
+AL-0043,T0036230,Incoming transfer
+AL-0043,T0036256,Incoming transfer
+AL-0043,T0036262,Incoming transfer
+AL-0043,T0036289,Incoming transfer
+AL-0043,T0036350,Incoming transfer
+AL-0043,T0036384,Large outgoing transfer
+AL-0044,T0036146,Incoming transfer
+AL-0044,T0036149,Incoming transfer
+AL-0044,T0036151,Incoming transfer
+AL-0044,T0036207,Incoming transfer
+AL-0044,T0036217,Incoming transfer
+AL-0044,T0036383,Large outgoing transfer
+AL-0045,T0036872,Incoming transfer
+AL-0045,T0037010,Incoming transfer
+AL-0045,T0037020,Incoming transfer
+AL-0045,T0037047,Incoming transfer
+AL-0045,T0037053,Incoming transfer
+AL-0045,T0037075,Incoming transfer
+AL-0045,T0037130,Incoming transfer
+AL-0045,T0037255,Large outgoing transfer
+AL-0046,T0036221,Cash deposit just below threshold
+AL-0046,T0036705,Cash deposit just below threshold
+AL-0046,T0037111,Cash deposit just below threshold
+AL-0046,T0037328,Cash deposit just below threshold
+AL-0047,T0036339,Money out (alert month)
+AL-0047,T0036771,Money out (alert month)
+AL-0047,T0037585,Money out (alert month)
+AL-0047,T0035136,Money in (alert month)
+AL-0047,T0035881,Money in (alert month)
+AL-0048,T0036107,Money out (alert month)
+AL-0048,T0037038,Money out (alert month)
+AL-0048,T0037119,Money out (alert month)
+AL-0048,T0037697,Money out (alert month)
+AL-0048,T0038753,Money out (alert month)
+AL-0048,T0035388,Money in (alert month)
+AL-0048,T0035435,Money in (alert month)
+AL-0048,T0035509,Money in (alert month)
+AL-0048,T0035569,Money in (alert month)
+AL-0048,T0035680,Money in (alert month)
+AL-0048,T0035804,Money in (alert month)
+AL-0048,T0035905,Money in (alert month)
+AL-0048,T0036103,Money in (alert month)
+AL-0048,T0037503,Money in (alert month)
+AL-0049,T0034617,Money out (alert month)
+AL-0049,T0035018,Money out (alert month)
+AL-0049,T0036233,Money out (alert month)
+AL-0049,T0035092,Money in (alert month)
+AL-0049,T0035961,Money in (alert month)
+AL-0049,T0035993,Money in (alert month)
+AL-0049,T0036028,Money in (alert month)
+AL-0049,T0036035,Money in (alert month)
+AL-0049,T0036037,Money in (alert month)
+AL-0049,T0036046,Money in (alert month)
+AL-0049,T0036047,Money in (alert month)
+AL-0049,T0036050,Money in (alert month)
+AL-0049,T0036053,Money in (alert month)
+AL-0050,T0035212,Money out (alert month)
+AL-0050,T0035819,Money out (alert month)
+AL-0050,T0037255,Money out (alert month)
+AL-0050,T0037995,Money out (alert month)
+AL-0050,T0034879,Money in (alert month)
+AL-0050,T0036872,Money in (alert month)
+AL-0050,T0037010,Money in (alert month)
+AL-0050,T0037020,Money in (alert month)
+AL-0050,T0037047,Money in (alert month)
+AL-0050,T0037053,Money in (alert month)
+AL-0050,T0037075,Money in (alert month)
+AL-0050,T0037130,Money in (alert month)
+AL-0051,T0036384,Money out (alert month)
+AL-0051,T0037167,Money out (alert month)
+AL-0051,T0038361,Money out (alert month)
+AL-0051,T0036144,Money in (alert month)
+AL-0051,T0036230,Money in (alert month)
+AL-0051,T0036256,Money in (alert month)
+AL-0051,T0036262,Money in (alert month)
+AL-0051,T0036289,Money in (alert month)
+AL-0051,T0036350,Money in (alert month)
+AL-0051,T0038674,Money in (alert month)
+AL-0052,T0038614,Money out (alert month)
+AL-0052,T0034748,Money in (alert month)
+AL-0052,T0036221,Money in (alert month)
+AL-0052,T0036571,Money in (alert month)
+AL-0052,T0036705,Money in (alert month)
+AL-0052,T0037111,Money in (alert month)
+AL-0052,T0037328,Money in (alert month)
+AL-0053,T0035978,Money out (alert month)
+AL-0053,T0036383,Money out (alert month)
+AL-0053,T0038929,Money out (alert month)
+AL-0053,T0034626,Money in (alert month)
+AL-0053,T0036146,Money in (alert month)
+AL-0053,T0036149,Money in (alert month)
+AL-0053,T0036151,Money in (alert month)
+AL-0053,T0036207,Money in (alert month)
+AL-0053,T0036217,Money in (alert month)
+AL-0054,T0039644,Incoming transfer
+AL-0054,T0039724,Incoming transfer
+AL-0054,T0039798,Incoming transfer
+AL-0054,T0039802,Incoming transfer
+AL-0054,T0039896,Incoming transfer
+AL-0054,T0039906,Incoming transfer
+AL-0054,T0040021,Large outgoing transfer
+AL-0055,T0039899,Incoming transfer
+AL-0055,T0039905,Incoming transfer
+AL-0055,T0039907,Incoming transfer
+AL-0055,T0039926,Incoming transfer
+AL-0055,T0039930,Incoming transfer
+AL-0055,T0039995,Incoming transfer
+AL-0055,T0039999,Incoming transfer
+AL-0055,T0040017,Incoming transfer
+AL-0055,T0040125,Large outgoing transfer
+AL-0056,T0039649,Cash deposit just below threshold
+AL-0056,T0039785,Cash deposit just below threshold
+AL-0056,T0039909,Cash deposit just below threshold
+AL-0056,T0040020,Cash deposit just below threshold
+AL-0056,T0040465,Cash deposit just below threshold
+AL-0056,T0040557,Cash deposit just below threshold
+AL-0057,T0040413,Cash deposit just below threshold
+AL-0057,T0040633,Cash deposit just below threshold
+AL-0057,T0040951,Cash deposit just below threshold
+AL-0057,T0041199,Cash deposit just below threshold
+AL-0057,T0041434,Cash deposit just below threshold
+AL-0058,T0040791,Payment to beneficiary
+AL-0058,T0040807,Payment to beneficiary
+AL-0058,T0040818,Payment to beneficiary
+AL-0058,T0040908,Payment to beneficiary
+AL-0058,T0041269,Payment to beneficiary
+AL-0058,T0041277,Payment to beneficiary
+AL-0058,T0041283,Payment to beneficiary
+AL-0058,T0041284,Payment to beneficiary
+AL-0058,T0041544,Payment to beneficiary
+AL-0058,T0041572,Payment to beneficiary
+AL-0059,T0039939,Money out (alert month)
+AL-0059,T0040026,Money out (alert month)
+AL-0059,T0040113,Money out (alert month)
+AL-0059,T0040125,Money out (alert month)
+AL-0059,T0040531,Money out (alert month)
+AL-0059,T0041629,Money out (alert month)
+AL-0059,T0039475,Money in (alert month)
+AL-0059,T0039899,Money in (alert month)
+AL-0059,T0039905,Money in (alert month)
+AL-0059,T0039907,Money in (alert month)
+AL-0059,T0039926,Money in (alert month)
+AL-0059,T0039930,Money in (alert month)
+AL-0059,T0039995,Money in (alert month)
+AL-0059,T0039999,Money in (alert month)
+AL-0059,T0040017,Money in (alert month)
+AL-0059,T0041082,Money in (alert month)
+AL-0060,T0040319,Money out (alert month)
+AL-0060,T0040546,Money out (alert month)
+AL-0060,T0041042,Money out (alert month)
+AL-0060,T0041465,Money out (alert month)
+AL-0060,T0039822,Money in (alert month)
+AL-0060,T0042470,Money in (alert month)
+AL-0060,T0042974,Money in (alert month)
+AL-0061,T0040641,Money out (alert month)
+AL-0061,T0040984,Money out (alert month)
+AL-0061,T0041585,Money out (alert month)
+AL-0061,T0041805,Money out (alert month)
+AL-0061,T0042246,Money out (alert month)
+AL-0061,T0042560,Money out (alert month)
+AL-0061,T0040200,Money in (alert month)
+AL-0061,T0042015,Money in (alert month)
+AL-0061,T0043252,Money in (alert month)
+AL-0062,T0040021,Money out (alert month)
+AL-0062,T0040259,Money out (alert month)
+AL-0062,T0041667,Money out (alert month)
+AL-0062,T0041884,Money out (alert month)
+AL-0062,T0042329,Money out (alert month)
+AL-0062,T0039082,Money in (alert month)
+AL-0062,T0039644,Money in (alert month)
+AL-0062,T0039724,Money in (alert month)
+AL-0062,T0039798,Money in (alert month)
+AL-0062,T0039802,Money in (alert month)
+AL-0062,T0039896,Money in (alert month)
+AL-0062,T0039906,Money in (alert month)
+AL-0062,T0041120,Money in (alert month)
+AL-0062,T0042436,Money in (alert month)
+AL-0063,T0042394,Money out (alert month)
+AL-0063,T0039487,Money in (alert month)
+AL-0063,T0039649,Money in (alert month)
+AL-0063,T0039785,Money in (alert month)
+AL-0063,T0039909,Money in (alert month)
+AL-0063,T0040020,Money in (alert month)
+AL-0063,T0040465,Money in (alert month)
+AL-0063,T0040557,Money in (alert month)
+AL-0063,T0041126,Money in (alert month)
+AL-0064,T0039743,Money out (alert month)
+AL-0064,T0039200,Money in (alert month)
+AL-0064,T0040791,Money in (alert month)
+AL-0064,T0040807,Money in (alert month)
+AL-0064,T0040818,Money in (alert month)
+AL-0064,T0040908,Money in (alert month)
+AL-0064,T0041269,Money in (alert month)
+AL-0064,T0041277,Money in (alert month)
+AL-0064,T0041283,Money in (alert month)
+AL-0064,T0041284,Money in (alert month)
+AL-0064,T0041321,Money in (alert month)
+AL-0064,T0041544,Money in (alert month)
+AL-0064,T0041572,Money in (alert month)
+AL-0065,T0040587,Money out (alert month)
+AL-0065,T0039443,Money in (alert month)
+AL-0065,T0040413,Money in (alert month)
+AL-0065,T0040633,Money in (alert month)
+AL-0065,T0040951,Money in (alert month)
+AL-0065,T0041199,Money in (alert month)
+AL-0065,T0041434,Money in (alert month)
+AL-0066,T0044640,Payment to beneficiary
+AL-0066,T0044655,Payment to beneficiary
+AL-0066,T0044756,Payment to beneficiary
+AL-0066,T0044765,Payment to beneficiary
+AL-0066,T0044791,Payment to beneficiary
+AL-0066,T0044874,Payment to beneficiary
+AL-0066,T0044890,Payment to beneficiary
+AL-0067,T0044625,Incoming transfer
+AL-0067,T0044640,Incoming transfer
+AL-0067,T0044655,Incoming transfer
+AL-0067,T0044756,Incoming transfer
+AL-0067,T0044765,Incoming transfer
+AL-0067,T0044779,Incoming transfer
+AL-0067,T0044791,Incoming transfer
+AL-0067,T0044874,Incoming transfer
+AL-0067,T0044890,Incoming transfer
+AL-0067,T0044899,Large outgoing transfer
+AL-0068,T0044990,Payment to beneficiary
+AL-0068,T0044992,Payment to beneficiary
+AL-0068,T0045007,Payment to beneficiary
+AL-0068,T0045100,Payment to beneficiary
+AL-0068,T0045119,Payment to beneficiary
+AL-0068,T0045265,Payment to beneficiary
+AL-0068,T0045279,Payment to beneficiary
+AL-0068,T0045350,Payment to beneficiary
+AL-0068,T0045359,Payment to beneficiary
+AL-0068,T0045382,Payment to beneficiary
+AL-0068,T0045549,Payment to beneficiary
+AL-0069,T0045409,Cash deposit just below threshold
+AL-0069,T0046157,Cash deposit just below threshold
+AL-0069,T0046251,Cash deposit just below threshold
+AL-0070,T0043667,Money out (alert month)
+AL-0070,T0043989,Money out (alert month)
+AL-0070,T0044899,Money out (alert month)
+AL-0070,T0045087,Money out (alert month)
+AL-0070,T0048009,Money out (alert month)
+AL-0070,T0043653,Money in (alert month)
+AL-0070,T0044625,Money in (alert month)
+AL-0070,T0044640,Money in (alert month)
+AL-0070,T0044655,Money in (alert month)
+AL-0070,T0044756,Money in (alert month)
+AL-0070,T0044765,Money in (alert month)
+AL-0070,T0044779,Money in (alert month)
+AL-0070,T0044791,Money in (alert month)
+AL-0070,T0044874,Money in (alert month)
+AL-0070,T0044890,Money in (alert month)
+AL-0070,T0046038,Money in (alert month)
+AL-0071,T0051464,Money out (alert month)
+AL-0071,T0050637,Money in (alert month)
+AL-0071,T0050785,Money in (alert month)
+AL-0071,T0051011,Money in (alert month)
+AL-0071,T0051218,Money in (alert month)
+AL-0071,T0051353,Money in (alert month)
+AL-0071,T0051496,Money in (alert month)
+AL-0071,T0051962,Money in (alert month)
+AL-0072,T0048401,Money out (alert month)
+AL-0072,T0049763,Money out (alert month)
+AL-0072,T0050235,Money out (alert month)
+AL-0072,T0050716,Money out (alert month)
+AL-0072,T0050828,Money out (alert month)
+AL-0072,T0051045,Money out (alert month)
+AL-0072,T0051304,Money out (alert month)
+AL-0072,T0048496,Money in (alert month)
+AL-0072,T0049325,Money in (alert month)
+AL-0072,T0050277,Money in (alert month)
